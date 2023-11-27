@@ -1,0 +1,67 @@
+# Visit https://docs.rilldata.com/reference/project-files to learn more about Rill project files.
+
+title: districts_mpi_dashboard
+model: districts_mpi_model
+timeseries: ""
+measures:
+  - label: Total records
+    expression: count(*)
+    name: total_records
+    description: Total number of records present
+    format_preset: humanize
+    valid_percent_of_total: true
+  - label: Sum(headcount_ratio)
+    expression: sum(headcount_ratio)
+    name: sum(headcount_ratio)
+    description: Sum of Headcount_ratio
+    format_preset: humanize
+    valid_percent_of_total: true
+  - label: Sum(intensity)
+    expression: sum(intensity)
+    name: sum(intensity)
+    description: Sum of Intensity
+    format_preset: humanize
+    valid_percent_of_total: true
+  - label: Sum(mpi)
+    expression: sum(mpi)
+    name: sum(mpi)
+    description: Sum of Mpi
+    format_preset: humanize
+    valid_percent_of_total: true
+dimensions:
+  - name: fiscal_year
+    label: Fiscal_year
+    column: fiscal_year
+    description: ""
+  - name: state
+    label: State
+    column: state
+    description: ""
+  - name: district
+    label: District
+    column: district
+    description: ""
+  - name: survey
+    label: Survey
+    column: survey
+    description: ""
+  - name: unit
+    label: Unit
+    column: unit
+    description: ""
+  - name: note
+    label: Note
+    column: note
+    description: ""
+available_time_zones:
+  - America/Los_Angeles
+  - America/Chicago
+  - America/New_York
+  - Europe/London
+  - Europe/Paris
+  - Asia/Jerusalem
+  - Europe/Moscow
+  - Asia/Kolkata
+  - Asia/Shanghai
+  - Asia/Tokyo
+  - Australia/Sydney

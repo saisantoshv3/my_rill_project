@@ -1,0 +1,63 @@
+# Visit https://docs.rilldata.com/reference/project-files to learn more about Rill project files.
+
+title: gst_model_dashboard
+model: gst_model
+timeseries: modified_date
+measures:
+  - label: Total records
+    expression: count(*)
+    name: total_records
+    description: Total number of records present
+    format_preset: humanize
+    valid_percent_of_total: true
+  - label: Sum(amount)
+    expression: sum(amount)
+    name: sum(amount)
+    description: Sum of Amount
+    format_preset: humanize
+    valid_percent_of_total: true
+dimensions:
+  - name: fiscal_year
+    label: Fiscal_year
+    column: fiscal_year
+    description: ""
+  - name: Year
+    label: Year
+    column: year
+    description: ""
+  - name: month
+    label: Month
+    column: month
+    description: ""
+  - name: state
+    label: State
+    column: state
+    description: ""
+  - name: category
+    label: Category
+    column: category
+    description: ""
+  - name: tax_type
+    label: Tax_type
+    column: tax_type
+    description: ""
+  - name: unit
+    label: Unit
+    column: unit
+    description: ""
+  - name: notes
+    label: Notes
+    column: notes
+    description: ""
+available_time_zones:
+  - America/Los_Angeles
+  - America/Chicago
+  - America/New_York
+  - Europe/London
+  - Europe/Paris
+  - Asia/Jerusalem
+  - Europe/Moscow
+  - Asia/Kolkata
+  - Asia/Shanghai
+  - Asia/Tokyo
+  - Australia/Sydney

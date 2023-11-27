@@ -1,0 +1,503 @@
+﻿year,host,worldcup_name,match_type,match_period,match_date,venue,venue_city,first_batting_team,second_batting_team,first_batting_team_score,second_batting_team_score,match_winner,winning_margin,winning_margin_type,winning_condition,season_winner
+2023,India,ICC Cricket World Cup,League,Day Night,02-Nov-23,"Wankhade Stadium, Mumbai",Mumbai,India,Srilanka,357/8,55,India,302,Runs,,Australia
+2023,India,ICC Cricket World Cup,League,Day Night,05-Nov-23,"Eden Gardens, Kolkata",Kolkata,India,South Africa,326/5,83,India,243,Runs,,Australia
+2023,India,ICC Cricket World Cup,League,Day Night,25-Oct-23,"Arun Jaitley Stadium, Delhi",Delhi,Australia,Netherlands,399/8,90,Australia,309,Runs,,Australia
+2023,India,ICC Cricket World Cup,League,Day Night,29-Oct-23,"Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,India,England,229/9,129,India,100,Runs,,Australia
+2023,India,ICC Cricket World Cup,League,Day Night,18-Oct-23,"Chepauk Stadiym, Chennai",Chennai,New Zealand,Afghanistan,288/6,139,New Zealand,149,Runs,,Australia
+2023,India,ICC Cricket World Cup,League,Day Night,28-Oct-23,"Eden Gardens, Kolkata",Kolkata,Netherlands,Bangladesh,229,142,Netherlands,87,Runs,,Australia
+2023,India,ICC Cricket World Cup,League,Day Night,01-Nov-23,Maharashtra Cricket Association Stadium,Pune,South Africa,New Zealand,357/4,167,South Africa,190,Runs,,Australia
+2023,India,ICC Cricket World Cup,League,Day Night,21-Oct-23,"Wankhade Stadium, Mumbai",Mumbai,South Africa,England,399/7,170,South Africa,229,Runs,,Australia
+2023,India,ICC Cricket World Cup,League,Day Night,12-Oct-23,"Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,South Africa,Australia,311/7,177,South Africa,134,Runs,,Australia
+2023,India,ICC Cricket World Cup,League,Day Night,08-Nov-23,Maharashtra Cricket Association Stadium,Pune,England,Netherlands,339/9,179,England,160,Runs,,Australia
+2023,India,ICC Cricket World Cup,League,Day Night,06-Oct-23,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Hyderabad,Pakistan,Netherlands,286,205,Pakistan,81,Runs,,Australia
+2023,India,ICC Cricket World Cup,League,Day Night,17-Oct-23,"Himachal Cricket Association Stadium, Dharamsala",Dharamsala,Netherlands,South Africa,245/8,207,Netherlands,38,Runs,,Australia
+2023,India,ICC Cricket World Cup,League,Day Night,15-Oct-23,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Afghanistan,England,284,215,Afghanistan,69,Runs,,Australia
+2023,India,ICC Cricket World Cup,League,Day Night,09-Oct-23,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Hyderabad,New Zealand,Netherlands,322/7,223,New Zealand,99,Runs,,Australia
+2023,India,ICC Cricket World Cup,League,Day,10-Oct-23,"Himachal Cricket Association Stadium, Dharamsala",Dharamsala,England,Bangladesh,364/9,227,England,137,Runs,,Australia
+2023,India,ICC Cricket World Cup,League,Day Night,24-Oct-23,"Wankhade Stadium, Mumbai",Mumbai,South Africa,Bangladesh,382/5,233,South Africa,149,Runs,,Australia
+2023,India,ICC Cricket World Cup,League,Day Night,11-Nov-23,"Eden Gardens, Kolkata",Kolkata,England,Pakistan,337/9,244,England,93,Runs,,Australia
+2023,India,ICC Cricket World Cup,League,Day Night,12-Nov-23,"Chinnaswamy Stadium, Banglore",Banglore,India,Netherlands,410/4,250,India,160,Runs,,Australia
+2023,India,ICC Cricket World Cup,League,Day Night,04-Nov-23,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Australia,England,286,253,Australia,33,Runs,,Australia
+2023,India,ICC Cricket World Cup,League,Day Night,20-Oct-23,"Chinnaswamy Stadium, Banglore",Banglore,Australia,Pakistan,367/9,305,Australia,62,Runs,,Australia
+2023,India,ICC Cricket World Cup,League,Day Night,07-Oct-23,"Arun Jaitley Stadium, Delhi",Delhi,South Africa,Srilanka,428/5,326,South Africa,102,Runs,,Australia
+2023,India,ICC Cricket World Cup,Semi-final,Day,15-Nov-23,"Wankhade Stadium, Mumbai",Mumbai,India,New Zealand,397/4,327,India,70,Runs,,Australia
+2023,India,ICC Cricket World Cup,League,Day,07-Oct-23,"Himachal Cricket Association Stadium, Dharamsala",Dharamsala,Afghanistan,Bangladesh,156,158/4,Bangladesh,6,Wickets,With 92 balls remaining,Australia
+2023,India,ICC Cricket World Cup,League,Day Night,26-Oct-23,"Chinnaswamy Stadium, Banglore",Banglore,England,Srilanka,156,160/2,Srilanka,8,Wickets,With 146 balls remaining,Australia
+2023,India,ICC Cricket World Cup,League,Day Night,09-Nov-23,"Chinnaswamy Stadium, Banglore",Banglore,Sri Lanka,New Zealand,171,172/5,New Zealand,5,Wickets,With 160 balls remaining,Australia
+2023,India,ICC Cricket World Cup,League,Day Night,03-Nov-23,"Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Netherlands,Afghanistan,179,181/3,Netherlands,7,Wickets,With 111 balls remaining,Australia
+2023,India,ICC Cricket World Cup,League,Day Night,14-Oct-23,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,India,Pakistan,191,192/3,India,7,Wickets,With 117 balls remaining,Australia
+2023,India,ICC Cricket World Cup,League,Day,04-Nov-23,"Chinnaswamy Stadium, Banglore",Banglore,New Zealand,Pakistan,401/6,200/1,Pakistan,21,Runs,D/L method,Australia
+2023,India,ICC Cricket World Cup,League,Day Night,08-Oct-23,"Chepauk Stadiym, Chennai",Chennai,Australia,India,199,201/4,India,6,Wickets,With 52 balls remaining,Australia
+2023,India,ICC Cricket World Cup,League,Day Night,31-Oct-23,"Eden Gardens, Kolkata",Kolkata,Bangaldesh,Pakistan,204,205/3,Pakistan,7,Wickets,With 105 balls remaining,Australia
+2023,India,ICC Cricket World Cup,Semi-final,Day Night,16-Nov-23,"Eden Gardens, Kolkata",Kolkata,South Africa,Australia,212,213/7,Australia,3,Wickets,With 13 balls remaining,Australia
+2023,India,ICC Cricket World Cup,League,Day Night,16-Oct-23,"Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Sri Lanka,Australia,209,215/5,Australia,5,Wickets,With 88 balls remaining,Australia
+2023,India,ICC Cricket World Cup,Final,Day Night,19-Nov-23,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,India,Australia,240,241/3,Australia,7,Wickets,With 42 balls remaining,Australia
+2023,India,ICC Cricket World Cup,League,Day Night,30-Oct-23,Maharashtra Cricket Association Stadium,Pune,Sri Lanka,Afghanistan,241,242/3,Afghanistan,7,Wickets,With 28 balls remaining,Australia
+2023,India,ICC Cricket World Cup,League,Day Night,10-Nov-23,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Afghanistan,South Africa,244,247/5,South Africa,5,Wickets,With 15 balls remaining,Australia
+2023,India,ICC Cricket World Cup,League,Day Night,13-Oct-23,"Chepauk Stadiym, Chennai",Chennai,Bangaldesh,New Zealand,245/9,248/2,New Zealand,8,Wickets,With 43 balls remaining,Australia
+2023,India,ICC Cricket World Cup,League,Day Night,19-Oct-23,Maharashtra Cricket Association Stadium,Pune,Bangaldesh,India,256/8,261/3,India,7,Wickets,With 51 balls remaining,Australia
+2023,India,ICC Cricket World Cup,League,Day,21-Oct-23,"Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Netherlands,Srilanka,262,263/5,Netherlands,5,Wickets,With 10 balls remaining,Australia
+2023,India,ICC Cricket World Cup,League,Day Night,27-Oct-23,"Chepauk Stadiym, Chennai",Chennai,Pakistan,South Africa,270,271/9,South Africa,1,Wickets,With 16 balls remaining,Australia
+2023,India,ICC Cricket World Cup,League,Day Night,11-Oct-23,"Arun Jaitley Stadium, Delhi",Delhi,Afghanistan,India,272/8,273/2,India,8,Wickets,With 90 balls remaining,Australia
+2023,India,ICC Cricket World Cup,League,Day Night,22-Oct-23,"Himachal Cricket Association Stadium, Dharamsala",Dharamsala,New Zealand,India,273,274/8,India,4,Wickets,With 12 balls remaining,Australia
+2023,India,ICC Cricket World Cup,League,Day Night,06-Nov-23,"Arun Jaitley Stadium, Delhi",Delhi,Sri Lanka,Bangladesh,279,282/7,Bangladesh,3,Wickets,With 53 balls remaining,Australia
+2023,India,ICC Cricket World Cup,League,Day Night,05-Oct-23,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,England,New Zealand,282/9,283/1,New Zealand,9,Wickets,With 82 balls remaining,Australia
+2023,India,ICC Cricket World Cup,League,Day Night,23-Oct-23,"Chepauk Stadiym, Chennai",Chennai,Pakistan,Afghanistan,282/7,286/2,Afghanistan,8,Wickets,With 6 balls remaining,Australia
+2023,India,ICC Cricket World Cup,League,Day Night,07-Nov-23,"Wankhade Stadium, Mumbai",Mumbai,Afghanistan,Australia,291/5,293/7,Australia,3,Wickets,With 19 balls remaining,Australia
+2023,India,ICC Cricket World Cup,League,Day,11-Nov-23,Maharashtra Cricket Association Stadium,Pune,Bangaldesh,Australia,306/8,307/2,Australia,8,Wickets,With 32 balls remaining,Australia
+2023,India,ICC Cricket World Cup,League,Day Night,10-Oct-23,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Hyderabad,Sri Lanka,Pakistan,344/9,345/4,Pakistan,6,Wickets,With 10 balls remaining,Australia
+2023,India,ICC Cricket World Cup,League,Day,28-Oct-23,"Himachal Cricket Association Stadium, Dharamsala",Dharamsala,Australia,New Zealand,388,383/9,Australia,5,Runs,,Australia
+2019,England,ICC Cricket World Cup,League,Day,31-May-19,Nottingham,Nottingham,Pakistan,West Indies,105,108 for 3,West Indies,7,Wickets,With 218 balls remaining,England
+2019,England,ICC Cricket World Cup,League,Day Night,15-Jun-19,Cardiff,Cardiff,Afghanistan,South Africa,125,131 for 1,South Africa,9,Wickets,D/L method,England
+2019,England,ICC Cricket World Cup,League,Day,01-Jun-19,Cardiff,Cardiff,Sri Lanka,New Zealand,136,137 for 0,New Zealand,10,Wickets,With 203 balls remaining,England
+2019,England,ICC Cricket World Cup,League,Day,27-Jun-19,Manchester,Manchester,India,West Indies,268 for 7,143,India,125,Runs,,England
+2019,England,ICC Cricket World Cup,League,Day,04-Jun-19,Cardiff,Cardiff,Sri Lanka,Afghanistan,201,152,Sri Lanka,34,Runs,D/L method,England
+2019,England,ICC Cricket World Cup,League,Day Night,29-Jun-19,Lord's,Kolkata,Australia,New Zealand,243 for 9,157,Australia,86,Runs,,England
+2019,England,ICC Cricket World Cup,League,Day Night,08-Jun-19,Taunton,Taunton,Afghanistan,New Zealand,172,173 for 3,New Zealand,7,Wickets,With 107 balls remaining,England
+2019,England,ICC Cricket World Cup,League,Day,03-Jul-19,Chester-le-Street,Chester-le-Street,England,New Zealand,305 for 8,186,England,119,Runs,,England
+2019,England,ICC Cricket World Cup,League,Day,24-Jun-19,Southampton,Southampton,Bangladesh,Afghanistan,262 for 7,200,Bangladesh,62,Runs,,England
+2019,England,ICC Cricket World Cup,League,Day,28-Jun-19,Chester-le-Street,Chester-le-Street,Sri Lanka,South Africa,203,206 for 1,South Africa,9,Wickets,With 76 balls remaining,England
+2019,England,ICC Cricket World Cup,League,Day,30-May-19,The Oval,Kolkata,England,South Africa,311 for 8,207,England,104,Runs,,England
+2019,England,ICC Cricket World Cup,League,Day Night,01-Jun-19,Bristol,Bristol,Afghanistan,Australia,207,209 for 3,Australia,7,Wickets,With 91 balls remaining,England
+2019,England,ICC Cricket World Cup,League,Day,21-Jun-19,Leeds,Leeds,Sri Lanka,England,232 for 9,212,Sri Lanka,20,Runs,,England
+2019,England,ICC Cricket World Cup,League,Day,16-Jun-19,Manchester,Manchester,India,Pakistan,336 for 5,212 for 6,India,89,Runs,D/L method,England
+2019,England,ICC Cricket World Cup,League,Day,22-Jun-19,Southampton,Southampton,India,Afghanistan,224 for 8,213,India,11,Runs,,England
+2019,England,ICC Cricket World Cup,League,Day,14-Jun-19,Southampton,Southampton,West Indies,England,212,213 for 2,England,8,Wickets,With 101 balls remaining,England
+2019,England,ICC Cricket World Cup,Semi-final,Day,"July 09 - 10, 2019",Manchester,Manchester,New Zealand,India,239 for 8,221,New Zealand,18,Runs,,England
+2019,England,ICC Cricket World Cup,League,Day,25-Jun-19,Lord's,Kolkata,Australia,England,285 for 7,221,Australia,64,Runs,,England
+2019,England,ICC Cricket World Cup,League,Day,05-Jul-19,Lord's,Kolkata,Pakistan,Bangladesh,315 for 9,221,Pakistan,94,Runs,,England
+2019,England,ICC Cricket World Cup,Semi-final,Day,11-Jul-19,Birmingham,Birmingham,Australia,England,223,226 for 2,England,8,Wickets,With 107 balls remaining,England
+2019,England,ICC Cricket World Cup,League,Day,05-Jun-19,Southampton,Southampton,South Africa,India,227 for 9,230 for 4,India,6,Wickets,With 15 balls remaining,England
+2019,England,ICC Cricket World Cup,League,Day,29-Jun-19,Leeds,Leeds,Afghanistan,Pakistan,227 for 9,230 for 7,Pakistan,3,Wickets,With 2 balls remaining,England
+2019,England,ICC Cricket World Cup,Final,Day,14-Jul-19,Lord's,Kolkata,New Zealand,England,241 for 8,241,Match tied,,Match tied,,England
+2019,England,ICC Cricket World Cup,League,Day,26-Jun-19,Birmingham,Birmingham,New Zealand,Pakistan,237 for 6,241 for 4,Pakistan,6,Wickets,With 5 balls remaining,England
+2019,England,ICC Cricket World Cup,League,Day,19-Jun-19,Birmingham,Birmingham,South Africa,New Zealand,241 for 6,245 for 6,New Zealand,4,Wickets,With 3 balls remaining,England
+2019,England,ICC Cricket World Cup,League,Day,15-Jun-19,The Oval,Kolkata,Australia,Sri Lanka,334 for 7,247,Australia,87,Runs,,England
+2019,England,ICC Cricket World Cup,League,Day,18-Jun-19,Manchester,Manchester,England,Afghanistan,397 for 6,247 for 8,England,150,Runs,,England
+2019,England,ICC Cricket World Cup,League,Day Night,05-Jun-19,The Oval,Kolkata,Bangladesh,New Zealand,244,248 for 8,New Zealand,2,Wickets,With 17 balls remaining,England
+2019,England,ICC Cricket World Cup,League,Day,23-Jun-19,Lord's,Kolkata,Pakistan,South Africa,308 for 7,259 for 9,Pakistan,49,Runs,,England
+2019,England,ICC Cricket World Cup,League,Day,06-Jul-19,Leeds,Leeds,Sri Lanka,India,264 for 7,265 for 3,India,7,Wickets,With 39 balls remaining,England
+2019,England,ICC Cricket World Cup,League,Day,12-Jun-19,Taunton,Taunton,Australia,Pakistan,307,266,Australia,41,Runs,,England
+2019,England,ICC Cricket World Cup,League,Day,06-Jun-19,Nottingham,Nottingham,Australia,West Indies,288,273 for 9,Australia,15,Runs,,England
+2019,England,ICC Cricket World Cup,League,Day,08-Jun-19,Cardiff,Cardiff,England,Bangladesh,386 for 6,280,England,106,Runs,,England
+2019,England,ICC Cricket World Cup,League,Day,02-Jul-19,Birmingham,Birmingham,India,Bangladesh,314 for 9,286,India,28,Runs,,England
+2019,England,ICC Cricket World Cup,League,Day Night,22-Jun-19,Manchester,Manchester,New Zealand,West Indies,291 for 8,286,New Zealand,5,Runs,,England
+2019,England,ICC Cricket World Cup,League,Day,04-Jul-19,Leeds,Leeds,West Indies,Afghanistan,311 for 6,288,West Indies,23,Runs,,England
+2019,England,ICC Cricket World Cup,League,Day,30-Jun-19,Birmingham,Birmingham,England,India,337 for 7,306 for 5,England,31,Runs,,England
+2019,England,ICC Cricket World Cup,League,Day,02-Jun-19,The Oval,Kolkata,Bangladesh,South Africa,330 for 6,309 for 8,Bangladesh,21,Runs,,England
+2019,England,ICC Cricket World Cup,League,Day Night,06-Jul-19,Manchester,Manchester,South Africa,Australia,325 for 6,315,South Africa,10,Runs,,England
+2019,England,ICC Cricket World Cup,League,Day,01-Jul-19,Chester-le-Street,Chester-le-Street,Sri Lanka,West Indies,338 for 6,315 for 9,Sri Lanka,23,Runs,,England
+2019,England,ICC Cricket World Cup,League,Day,09-Jun-19,The Oval,Kolkata,India,Australia,352 for 5,316,India,36,Runs,,England
+2019,England,ICC Cricket World Cup,League,Day,17-Jun-19,Taunton,Taunton,West Indies,Bangladesh,321 for 8,322 for 3,Bangladesh,7,Wickets,With 51 balls remaining,England
+2019,England,ICC Cricket World Cup,League,Day,20-Jun-19,Nottingham,Nottingham,Australia,Bangladesh,381 for 5,333 for 8,Australia,48,Runs,,England
+2019,England,ICC Cricket World Cup,League,Day,03-Jun-19,Nottingham,Nottingham,Pakistan,England,348 for 8,334 for 9,Pakistan,14,Runs,,England
+2019,England,ICC Cricket World Cup,League,Day,07-Jun-19,Bristol,Bristol,Pakistan,Sri Lanka,,,Match abandoned without a ball bowled,,Match abandoned without a ball bowled,Match abandoned Without a ball bowled,England
+2019,England,ICC Cricket World Cup,League,Day,11-Jun-19,Bristol,Bristol,Bangladesh,Sri Lanka,,,Match abandoned without a ball bowled,,Match abandoned without a ball bowled,Match abandoned Without a ball bowled,England
+2019,England,ICC Cricket World Cup,League,Day,13-Jun-19,Nottingham,Nottingham,India,New Zealand,,,Match abandoned without a ball bowled,,Match abandoned without a ball bowled,Match abandoned Without a ball bowled,England
+2019,England,ICC Cricket World Cup,League,Day,10-Jun-19,Southampton,Southampton,South Africa,West Indies,29 for 2,,No result,,No result,,England
+2014/15,Australia/New Zealand,ICC Cricket World Cup,League,Day,13-Mar-15,Sydney,Sydney,Afghanistan,England,111 for 7,101 for 1,England,9,Wickets,D/L method,Australia
+2014/15,Australia/New Zealand,ICC Cricket World Cup,League,Day,28-Feb-15,Perth,Perth,United Arab Emirates,India,102,104 for 1,India,9,Wickets,With 187 balls remaining,Australia
+2014/15,Australia/New Zealand,ICC Cricket World Cup,League,Day,20-Feb-15,Wellington,Wellington,England,New Zealand,123,125 for 2,New Zealand,8,Wickets,With 226 balls remaining,Australia
+2014/15,Australia/New Zealand,ICC Cricket World Cup,League,Day,14-Mar-15,Hobart,Hobart,Scotland,Australia,130,133 for 3,Australia,7,Wickets,With 208 balls remaining,Australia
+2014/15,Australia/New Zealand,ICC Cricket World Cup,Quarter-final,Day Night,18-Mar-15,Sydney,Sydney,Sri Lanka,South Africa,133,134 for 1,South Africa,9,Wickets,With 192 balls remaining,Australia
+2014/15,Australia/New Zealand,ICC Cricket World Cup,League,Day,04-Mar-15,Perth,Perth,Australia,Afghanistan,417 for 6,142,Australia,275,Runs,,Australia
+2014/15,Australia/New Zealand,ICC Cricket World Cup,League,Day,17-Feb-15,Dunedin,Dunedin,Scotland,New Zealand,142,146 for 7,New Zealand,3,Wickets,With 151 balls remaining,Australia
+2014/15,Australia/New Zealand,ICC Cricket World Cup,League,Day,27-Feb-15,Sydney,Sydney,South Africa,West Indies,408 for 5,151,South Africa,257,Runs,,Australia
+2014/15,Australia/New Zealand,ICC Cricket World Cup,League,Day,28-Feb-15,Auckland,Auckland,Australia,New Zealand,151,152 for 9,New Zealand,1,Wickets,With 161 balls remaining,Australia
+2014/15,Australia/New Zealand,ICC Cricket World Cup,League,Day,21-Feb-15,Christchurch,Christchurch,West Indies,Pakistan,310 for 6,160,West Indies,150,Runs,,Australia
+2014/15,Australia/New Zealand,ICC Cricket World Cup,League,Day,18-Feb-15,Canberra,Canberra,Bangladesh,Afghanistan,267,162,Bangladesh,105,Runs,,Australia
+2014/15,Australia/New Zealand,ICC Cricket World Cup,League,Day,15-Mar-15,Napier,Napier,United Arab Emirates,West Indies,175,176 for 4,West Indies,6,Wickets,With 117 balls remaining,Australia
+2014/15,Australia/New Zealand,ICC Cricket World Cup,League,Day,22-Feb-15,Melbourne,Melbourne,India,South Africa,307 for 7,177,India,130,Runs,,Australia
+2014/15,Australia/New Zealand,ICC Cricket World Cup,League,Day,23-Feb-15,Christchurch,Christchurch,England,Scotland,303 for 8,184,England,119,Runs,,Australia
+2014/15,Australia/New Zealand,ICC Cricket World Cup,League,Day,06-Mar-15,Perth,Perth,West Indies,India,182,185 for 6,India,4,Wickets,With 65 balls remaining,Australia
+2014/15,Australia/New Zealand,ICC Cricket World Cup,Final,Day Night,29-Mar-15,Melbourne,Melbourne,New Zealand,Australia,183,186 for 3,Australia,7,Wickets,With 101 balls remaining,Australia
+2014/15,Australia/New Zealand,ICC Cricket World Cup,League,Day,08-Mar-15,Napier,Napier,Afghanistan,New Zealand,186,188 for 4,New Zealand,6,Wickets,With 83 balls remaining,Australia
+2014/15,Australia/New Zealand,ICC Cricket World Cup,Quarter-final,Day Night,19-Mar-15,Melbourne,Melbourne,India,Bangladesh,302 for 6,193,India,109,Runs,,Australia
+2014/15,Australia/New Zealand,ICC Cricket World Cup,League,Day,12-Mar-15,Wellington,Wellington,South Africa,United Arab Emirates,341 for 6,195,South Africa,146,Runs,,Australia
+2014/15,Australia/New Zealand,ICC Cricket World Cup,League,Day,07-Mar-15,Auckland,Auckland,Pakistan,South Africa,222,202,Pakistan,29,Runs,D/L method,Australia
+2014/15,Australia/New Zealand,ICC Cricket World Cup,League,Day,03-Mar-15,Canberra,Canberra,South Africa,Ireland,411 for 4,210,South Africa,201,Runs,,Australia
+2014/15,Australia/New Zealand,ICC Cricket World Cup,League,Day,04-Mar-15,Napier,Napier,Pakistan,United Arab Emirates,339 for 6,210 for 8,Pakistan,129,Runs,,Australia
+2014/15,Australia/New Zealand,ICC Cricket World Cup,League,Day,26-Feb-15,Dunedin,Dunedin,Scotland,Afghanistan,210,211 for 9,Afghanistan,1,Wickets,With 3 balls remaining,Australia
+2014/15,Australia/New Zealand,ICC Cricket World Cup,League,Day,11-Mar-15,Hobart,Hobart,Sri Lanka,Scotland,363 for 9,215,Sri Lanka,148,Runs,,Australia
+2014/15,Australia/New Zealand,ICC Cricket World Cup,League,Day,01-Mar-15,Brisbane,Brisbane,Pakistan,Zimbabwe,235 for 7,215,Pakistan,20,Runs,,Australia
+2014/15,Australia/New Zealand,ICC Cricket World Cup,Quarter-final,Day Night,20-Mar-15,Adelaide,Adelaide,Pakistan,Australia,213,216 for 4,Australia,6,Wickets,With 97 balls remaining,Australia
+2014/15,Australia/New Zealand,ICC Cricket World Cup,League,Day,15-Feb-15,Adelaide,Adelaide,India,Pakistan,300 for 7,224,India,76,Runs,,Australia
+2014/15,Australia/New Zealand,ICC Cricket World Cup,League,Day,14-Feb-15,Melbourne,Melbourne,Australia,England,342 for 9,231,Australia,111,Runs,,Australia
+2014/15,Australia/New Zealand,ICC Cricket World Cup,Semi-final,Day Night,26-Mar-15,Sydney,Sydney,Australia,India,328 for 7,233,Australia,95,Runs,,Australia
+2014/15,Australia/New Zealand,ICC Cricket World Cup,League,Day,14-Feb-15,Christchurch,Christchurch,New Zealand,Sri Lanka,331 for 6,233,New Zealand,98,Runs,,Australia
+2014/15,Australia/New Zealand,ICC Cricket World Cup,League,Day,22-Feb-15,Dunedin,Dunedin,Afghanistan,Sri Lanka,232,236 for 6,Sri Lanka,4,Wickets,With 10 balls remaining,Australia
+2014/15,Australia/New Zealand,ICC Cricket World Cup,League,Day,26-Feb-15,Melbourne,Melbourne,Sri Lanka,Bangladesh,332 for 1,240,Sri Lanka,92,Runs,,Australia
+2014/15,Australia/New Zealand,ICC Cricket World Cup,League,Day,15-Mar-15,Adelaide,Adelaide,Ireland,Pakistan,237,241 for 3,Pakistan,7,Wickets,With 23 balls remaining,Australia
+2014/15,Australia/New Zealand,ICC Cricket World Cup,Quarter-final,Day Night,21-Mar-15,Wellington,Wellington,New Zealand,West Indies,393 for 6,250,New Zealand,143,Runs,,Australia
+2014/15,Australia/New Zealand,ICC Cricket World Cup,League,Day,09-Mar-15,Adelaide,Adelaide,Bangladesh,England,275 for 7,260,Bangladesh,15,Runs,,Australia
+2014/15,Australia/New Zealand,ICC Cricket World Cup,League,Day,10-Mar-15,Hamilton,Hamilton,Ireland,India,259,260 for 2,India,8,Wickets,With 79 balls remaining,Australia
+2014/15,Australia/New Zealand,ICC Cricket World Cup,League,Day,15-Feb-15,Hamilton,Hamilton,South Africa,Zimbabwe,339 for 4,277,South Africa,62,Runs,,Australia
+2014/15,Australia/New Zealand,ICC Cricket World Cup,League,Day,25-Feb-15,Brisbane,Brisbane,United Arab Emirates,Ireland,278 for 9,279 for 8,Ireland,2,Wickets,With 4 balls remaining,Australia
+2014/15,Australia/New Zealand,ICC Cricket World Cup,League,Day,19-Feb-15,Nelson,Nelson,United Arab Emirates,Zimbabwe,285 for 7,286 for 6,Zimbabwe,4,Wickets,With 12 balls remaining,Australia
+2014/15,Australia/New Zealand,ICC Cricket World Cup,League,Day,14-Mar-15,Auckland,Auckland,Zimbabwe,India,287,288 for 4,India,6,Wickets,With 8 balls remaining,Australia
+2014/15,Australia/New Zealand,ICC Cricket World Cup,League,Day,24-Feb-15,Canberra,Canberra,West Indies,Zimbabwe,372 for 2,289,West Indies,73,Runs,D/L method,Australia
+2014/15,Australia/New Zealand,ICC Cricket World Cup,League,Day,13-Mar-15,Hamilton,Hamilton,Bangladesh,New Zealand,288 for 7,290 for 7,New Zealand,3,Wickets,With 7 balls remaining,Australia
+2014/15,Australia/New Zealand,ICC Cricket World Cup,Semi-final,Day Night,24-Mar-15,Auckland,Auckland,South Africa,New Zealand,281 for 5,299 for 6,New Zealand,4,Wickets,D/L method,Australia
+2014/15,Australia/New Zealand,ICC Cricket World Cup,League,Day,16-Feb-15,Nelson,Nelson,West Indies,Ireland,304 for 7,307 for 6,Ireland,4,Wickets,With 25 balls remaining,Australia
+2014/15,Australia/New Zealand,ICC Cricket World Cup,League,Day,08-Mar-15,Sydney,Sydney,Australia,Sri Lanka,376 for 9,312,Australia,64,Runs,,Australia
+2014/15,Australia/New Zealand,ICC Cricket World Cup,League,Day,01-Mar-15,Wellington,Wellington,England,Sri Lanka,309 for 6,312 for 1,Sri Lanka,9,Wickets,With 16 balls remaining,Australia
+2014/15,Australia/New Zealand,ICC Cricket World Cup,League,Day,05-Mar-15,Nelson,Nelson,Scotland,Bangladesh,318 for 8,322 for 4,Bangladesh,6,Wickets,With 11 balls remaining,Australia
+2014/15,Australia/New Zealand,ICC Cricket World Cup,League,Day,07-Mar-15,Hobart,Hobart,Ireland,Zimbabwe,331 for 8,326,Ireland,5,Runs,,Australia
+2014/15,Australia/New Zealand,ICC Cricket World Cup,League,Day,21-Feb-15,Brisbane,Brisbane,Australia,Bangladesh,,,Match abandoned without a ball bowled,,Match abandoned without a ball bowled,Match abandoned Without a ball bowled,Australia
+2010/11,Bangladesh/India/Sri Lanka,ICC Cricket World Cup,League,Day,23-Feb-11,Hambantota,Hambantota,Pakistan,Kenya,317 for 7,112,Pakistan,205,Runs,,India
+2010/11,Bangladesh/India/Sri Lanka,ICC Cricket World Cup,Quarter-final,Day Night,23-Mar-11,Mirpur,Mirpur,West Indies,Pakistan,112,113 for 0,Pakistan,10,Wickets,With 175 balls remaining,India
+2010/11,Bangladesh/India/Sri Lanka,ICC Cricket World Cup,League,Day,28-Feb-11,Delhi,Delhi,West Indies,Netherlands,330 for 8,115,West Indies,215,Runs,,India
+2010/11,Bangladesh/India/Sri Lanka,ICC Cricket World Cup,League,Day,03-Mar-11,Mohali,Mohali,South Africa,Netherlands,351 for 5,120,South Africa,231,Runs,,India
+2010/11,Bangladesh/India/Sri Lanka,ICC Cricket World Cup,League,Day,20-Feb-11,Hambantota,Hambantota,Sri Lanka,Canada,332 for 7,122,Sri Lanka,210,Runs,,India
+2010/11,Bangladesh/India/Sri Lanka,ICC Cricket World Cup,League,Day,28-Feb-11,Nagpur,Nagpur,Zimbabwe,Canada,298 for 9,123,Zimbabwe,175,Runs,,India
+2010/11,Bangladesh/India/Sri Lanka,ICC Cricket World Cup,League,Day,03-Mar-11,Colombo (RPS),Colombo,Pakistan,Canada,184,138,Pakistan,46,Runs,,India
+2010/11,Bangladesh/India/Sri Lanka,ICC Cricket World Cup,League,Day,15-Mar-11,Eden Gardens,Kolkata,South Africa,Ireland,272 for 7,141,South Africa,131,Runs,,India
+2010/11,Bangladesh/India/Sri Lanka,ICC Cricket World Cup,League,Day,01-Mar-11,Colombo (RPS),Colombo,Kenya,Sri Lanka,142,146 for 1,Sri Lanka,9,Wickets,With 188 balls remaining,India
+2010/11,Bangladesh/India/Sri Lanka,ICC Cricket World Cup,League,Day,20-Mar-11,Eden Gardens,Kolkata,Zimbabwe,Kenya,308 for 6,147,Zimbabwe,161,Runs,,India
+2010/11,Bangladesh/India/Sri Lanka,ICC Cricket World Cup,League,Day,18-Mar-11,Wankhede,Mumbai,Sri Lanka,New Zealand,265 for 9,153,Sri Lanka,112,Runs,,India
+2010/11,Bangladesh/India/Sri Lanka,ICC Cricket World Cup,League,Day,14-Mar-11,Pallekele,Kandy,Zimbabwe,Pakistan,151 for 7,164 for 3,Pakistan,7,Wickets,D/L method,India
+2010/11,Bangladesh/India/Sri Lanka,ICC Cricket World Cup,League,Day,06-Mar-11,Chennai,Chennai,England,South Africa,171,165,England,6,Runs,,India
+2010/11,Bangladesh/India/Sri Lanka,ICC Cricket World Cup,League,Day,04-Mar-11,Ahmedabad,Ahmedabad,Zimbabwe,New Zealand,162,166 for 0,New Zealand,10,Wickets,With 99 balls remaining,India
+2010/11,Bangladesh/India/Sri Lanka,ICC Cricket World Cup,League,Day,14-Mar-11,Chattogram,Chattogram,Netherlands,Bangladesh,160,166 for 4,Bangladesh,6,Wickets,With 52 balls remaining,India
+2010/11,Bangladesh/India/Sri Lanka,ICC Cricket World Cup,League,Day,21-Feb-11,Ahmedabad,Ahmedabad,Australia,Zimbabwe,262 for 6,171,Australia,91,Runs,,India
+2010/11,Bangladesh/India/Sri Lanka,ICC Cricket World Cup,Quarter-final,Day Night,25-Mar-11,Mirpur,Mirpur,New Zealand,South Africa,221 for 8,172,New Zealand,49,Runs,,India
+2010/11,Bangladesh/India/Sri Lanka,ICC Cricket World Cup,League,Day,25-Feb-11,Mirpur,Mirpur,Bangladesh,Ireland,205,178,Bangladesh,27,Runs,,India
+2010/11,Bangladesh/India/Sri Lanka,ICC Cricket World Cup,League,Day,19-Mar-11,Colombo (RPS),Colombo,Australia,Pakistan,176,178 for 6,Pakistan,4,Wickets,With 54 balls remaining,India
+2010/11,Bangladesh/India/Sri Lanka,ICC Cricket World Cup,League,Day,10-Mar-11,Pallekele,Kandy,Sri Lanka,Zimbabwe,327 for 6,188,Sri Lanka,139,Runs,,India
+2010/11,Bangladesh/India/Sri Lanka,ICC Cricket World Cup,League,Day,20-Mar-11,Chennai,Chennai,India,West Indies,268,188,India,80,Runs,,India
+2010/11,Bangladesh/India/Sri Lanka,ICC Cricket World Cup,League,Day,09-Mar-11,Delhi,Delhi,Netherlands,India,189,191 for 5,India,5,Wickets,With 81 balls remaining,India
+2010/11,Bangladesh/India/Sri Lanka,ICC Cricket World Cup,League,Day,08-Mar-11,Pallekele,Kandy,New Zealand,Pakistan,302 for 7,192,New Zealand,110,Runs,,India
+2010/11,Bangladesh/India/Sri Lanka,ICC Cricket World Cup,League,Day,07-Mar-11,Delhi,Delhi,Kenya,Canada,198,199 for 5,Canada,5,Wickets,With 27 balls remaining,India
+2010/11,Bangladesh/India/Sri Lanka,ICC Cricket World Cup,League,Day,25-Feb-11,Nagpur,Nagpur,New Zealand,Australia,206,207 for 3,Australia,7,Wickets,With 96 balls remaining,India
+2010/11,Bangladesh/India/Sri Lanka,ICC Cricket World Cup,League,Day,06-Mar-11,Bengaluru,Bengaluru,Ireland,India,207,210 for 5,India,5,Wickets,With 24 balls remaining,India
+2010/11,Bangladesh/India/Sri Lanka,ICC Cricket World Cup,League,Day,16-Mar-11,Bengaluru,Bengaluru,Canada,Australia,211,212 for 3,Australia,7,Wickets,With 91 balls remaining,India
+2010/11,Bangladesh/India/Sri Lanka,ICC Cricket World Cup,Semi-final,Day Night,29-Mar-11,Colombo (RPS),Colombo,New Zealand,Sri Lanka,217,220 for 5,Sri Lanka,5,Wickets,With 13 balls remaining,India
+2010/11,Bangladesh/India/Sri Lanka,ICC Cricket World Cup,League,Day,24-Feb-11,Delhi,Delhi,West Indies,South Africa,222,223 for 3,South Africa,7,Wickets,With 43 balls remaining,India
+2010/11,Bangladesh/India/Sri Lanka,ICC Cricket World Cup,League,Day,17-Mar-11,Chennai,Chennai,England,West Indies,243,225,England,18,Runs,,India
+2010/11,Bangladesh/India/Sri Lanka,ICC Cricket World Cup,League,Day,11-Mar-11,Chattogram,Chattogram,England,Bangladesh,225,227 for 8,Bangladesh,2,Wickets,With 6 balls remaining,India
+2010/11,Bangladesh/India/Sri Lanka,ICC Cricket World Cup,Semi-final,Day Night,30-Mar-11,Mohali,Mohali,India,Pakistan,260 for 9,231,India,29,Runs,,India
+2010/11,Bangladesh/India/Sri Lanka,ICC Cricket World Cup,League,Day,11-Mar-11,Mohali,Mohali,West Indies,Ireland,275,231,West Indies,44,Runs,,India
+2010/11,Bangladesh/India/Sri Lanka,ICC Cricket World Cup,Quarter-final,Day Night,26-Mar-11,Colombo (RPS),Colombo,England,Sri Lanka,229 for 6,231 for 0,Sri Lanka,10,Wickets,With 63 balls remaining,India
+2010/11,Bangladesh/India/Sri Lanka,ICC Cricket World Cup,Quarter-final,Day Night,24-Mar-11,Ahmedabad,Ahmedabad,Australia,India,260 for 6,261 for 5,India,5,Wickets,With 14 balls remaining,India
+2010/11,Bangladesh/India/Sri Lanka,ICC Cricket World Cup,League,Day,13-Mar-11,Wankhede,Mumbai,New Zealand,Canada,358 for 6,261 for 9,New Zealand,97,Runs,,India
+2010/11,Bangladesh/India/Sri Lanka,ICC Cricket World Cup,League,Day,13-Mar-11,Bengaluru,Bengaluru,Australia,Kenya,324 for 6,264 for 6,Australia,60,Runs,,India
+2010/11,Bangladesh/India/Sri Lanka,ICC Cricket World Cup,League,Day,26-Feb-11,Colombo (RPS),Colombo,Pakistan,Sri Lanka,277 for 7,266 for 9,Pakistan,11,Runs,,India
+2010/11,Bangladesh/India/Sri Lanka,ICC Cricket World Cup,Final,Day Night,02-Apr-11,Wankhede,Mumbai,Sri Lanka,India,274 for 6,277 for 4,India,6,Wickets,With 10 balls remaining,India
+2010/11,Bangladesh/India/Sri Lanka,ICC Cricket World Cup,League,Day,19-Feb-11,Mirpur,Mirpur,India,Bangladesh,370 for 4,283 for 9,India,87,Runs,,India
+2010/11,Bangladesh/India/Sri Lanka,ICC Cricket World Cup,League,Day,22-Feb-11,Nagpur,Nagpur,Netherlands,England,292 for 6,296 for 4,England,6,Wickets,With 8 balls remaining,India
+2010/11,Bangladesh/India/Sri Lanka,ICC Cricket World Cup,League,Day,12-Mar-11,Nagpur,Nagpur,India,South Africa,296,300 for 7,South Africa,3,Wickets,With 2 balls remaining,India
+2010/11,Bangladesh/India/Sri Lanka,ICC Cricket World Cup,League,Day,18-Mar-11,Eden Gardens,Kolkata,Netherlands,Ireland,306,307 for 4,Ireland,6,Wickets,With 14 balls remaining,India
+2010/11,Bangladesh/India/Sri Lanka,ICC Cricket World Cup,League,Day,02-Mar-11,Bengaluru,Bengaluru,England,Ireland,327 for 8,329 for 7,Ireland,3,Wickets,With 5 balls remaining,India
+2010/11,Bangladesh/India/Sri Lanka,ICC Cricket World Cup,League,Day,27-Feb-11,Bengaluru,Bengaluru,India,England,338,338 for 8,Match tied,,Match tied,,India
+2010/11,Bangladesh/India/Sri Lanka,ICC Cricket World Cup,League,Day,04-Mar-11,Mirpur,Mirpur,Bangladesh,West Indies,58,59 for 1,West Indies,9,Wickets,With 226 balls remaining,India
+2010/11,Bangladesh/India/Sri Lanka,ICC Cricket World Cup,League,Day,20-Feb-11,Chennai,Chennai,Kenya,New Zealand,69,72 for 0,New Zealand,10,Wickets,With 252 balls remaining,India
+2010/11,Bangladesh/India/Sri Lanka,ICC Cricket World Cup,League,Day,19-Mar-11,Mirpur,Mirpur,South Africa,Bangladesh,284 for 8,78,South Africa,206,Runs,,India
+2010/11,Bangladesh/India/Sri Lanka,ICC Cricket World Cup,League,Day,05-Mar-11,Colombo (RPS),Colombo,Sri Lanka,Australia,146 for 3,,No result,,No result,,India
+2006/07,West Indies,ICC Cricket World Cup,League,Day,31-Mar-07,Super Eights,Kolkata,Bangladesh,Australia,104 for 6,106 for 0,Australia,10,Wickets,With 49 balls remaining,Australia
+2006/07,West Indies,ICC Cricket World Cup,League,Day,21-Mar-07,Port of Spain,Spain,Sri Lanka,Bangladesh,318 for 4,112,Sri Lanka,198,Runs,D/L method,Australia
+2006/07,West Indies,ICC Cricket World Cup,League,Day,18-Mar-07,Basseterre,Basseterre,Australia,Netherlands,358 for 5,129,Australia,229,Runs,,Australia
+2006/07,West Indies,ICC Cricket World Cup,League,Day,14-Mar-07,Basseterre,Basseterre,Australia,Scotland,334 for 6,131,Australia,203,Runs,,Australia
+2006/07,West Indies,ICC Cricket World Cup,League,Day,19-Apr-07,Super Eights,Kolkata,West Indies,Bangladesh,230 for 5,131,West Indies,99,Runs,,Australia
+2006/07,West Indies,ICC Cricket World Cup,League,Day,16-Mar-07,Basseterre,Basseterre,South Africa,Netherlands,353 for 3,132 for 9,South Africa,221,Runs,,Australia
+2006/07,West Indies,ICC Cricket World Cup,League,Day,20-Apr-07,Super Eights,Kolkata,Australia,New Zealand,348 for 6,133,Australia,215,Runs,,Australia
+2006/07,West Indies,ICC Cricket World Cup,League,Day,17-Mar-07,Kingston,Kingston,Pakistan,Ireland,132,133 for 7,Ireland,3,Wickets,D/L method,Australia
+2006/07,West Indies,ICC Cricket World Cup,League,Day,09-Apr-07,Super Eights,Kolkata,New Zealand,Ireland,263 for 8,134,New Zealand,129,Runs,,Australia
+2006/07,West Indies,ICC Cricket World Cup,League,Day,22-Mar-07,Basseterre,Basseterre,Scotland,Netherlands,136,140 for 2,Netherlands,8,Wickets,With 157 balls remaining,Australia
+2006/07,West Indies,ICC Cricket World Cup,League,Day,11-Apr-07,Super Eights,Kolkata,Bangladesh,England,143,147 for 6,England,4,Wickets,With 31 balls remaining,Australia
+2006/07,West Indies,ICC Cricket World Cup,Semi-final,Day,25-Apr-07,Gros Islet,Kolkata,South Africa,Australia,149,153 for 3,Australia,7,Wickets,With 111 balls remaining,Australia
+2006/07,West Indies,ICC Cricket World Cup,League,Day,19-Mar-07,Port of Spain,Spain,India,Bermuda,413 for 5,156,India,257,Runs,,Australia
+2006/07,West Indies,ICC Cricket World Cup,League,Day,17-Apr-07,Super Eights,Kolkata,England,South Africa,154,157 for 1,South Africa,9,Wickets,With 184 balls remaining,Australia
+2006/07,West Indies,ICC Cricket World Cup,League,Day,03-Apr-07,Super Eights,Kolkata,Ireland,South Africa,152 for 8,165 for 3,South Africa,7,Wickets,D/L method,Australia
+2006/07,West Indies,ICC Cricket World Cup,League,Day,15-Apr-07,Super Eights,Kolkata,Ireland,Bangladesh,243 for 7,169,Ireland,74,Runs,,Australia
+2006/07,West Indies,ICC Cricket World Cup,League,Day,02-Apr-07,Super Eights,Kolkata,Bangladesh,New Zealand,174,178 for 1,New Zealand,9,Wickets,With 124 balls remaining,Australia
+2006/07,West Indies,ICC Cricket World Cup,League,Day,24-Mar-07,Gros Islet,Kolkata,Kenya,England,177,178 for 3,England,7,Wickets,With 60 balls remaining,Australia
+2006/07,West Indies,ICC Cricket World Cup,League,Day,29-Mar-07,Super Eights,Kolkata,West Indies,New Zealand,177,179 for 3,New Zealand,7,Wickets,With 64 balls remaining,Australia
+2006/07,West Indies,ICC Cricket World Cup,League,Day,20-Mar-07,Gros Islet,Kolkata,New Zealand,Kenya,331 for 7,183,New Zealand,148,Runs,,Australia
+2006/07,West Indies,ICC Cricket World Cup,League,Day,07-Apr-07,Super Eights,Kolkata,Bangladesh,South Africa,251 for 8,184,Bangladesh,67,Runs,,Australia
+2006/07,West Indies,ICC Cricket World Cup,League,Day,23-Mar-07,Port of Spain,Spain,Sri Lanka,India,254 for 6,185,Sri Lanka,69,Runs,,Australia
+2006/07,West Indies,ICC Cricket World Cup,League,Day,13-Mar-07,Kingston,Kingston,West Indies,Pakistan,241 for 9,187,West Indies,54,Runs,,Australia
+2006/07,West Indies,ICC Cricket World Cup,League,Day,20-Mar-07,Basseterre,Basseterre,Scotland,South Africa,186 for 8,188 for 3,South Africa,7,Wickets,With 160 balls remaining,Australia
+2006/07,West Indies,ICC Cricket World Cup,League,Day,01-Apr-07,Super Eights,Kolkata,Sri Lanka,West Indies,303 for 5,190,Sri Lanka,113,Runs,,Australia
+2006/07,West Indies,ICC Cricket World Cup,League,Day,23-Mar-07,Kingston,Kingston,Ireland,West Indies,183 for 8,190 for 2,West Indies,8,Wickets,D/L method,Australia
+2006/07,West Indies,ICC Cricket World Cup,League,Day,17-Mar-07,Port of Spain,Spain,India,Bangladesh,191,192 for 5,Bangladesh,5,Wickets,With 9 balls remaining,Australia
+2006/07,West Indies,ICC Cricket World Cup,League,Day,14-Apr-07,Super Eights,Kolkata,South Africa,New Zealand,193 for 7,196 for 5,New Zealand,5,Wickets,With 10 balls remaining,Australia
+2006/07,West Indies,ICC Cricket World Cup,League,Day,14-Mar-07,Gros Islet,Kolkata,Canada,Kenya,199,203 for 3,Kenya,7,Wickets,With 40 balls remaining,Australia
+2006/07,West Indies,ICC Cricket World Cup,League,Day,19-Mar-07,Kingston,Kingston,Zimbabwe,West Indies,202 for 5,204 for 4,West Indies,6,Wickets,With 13 balls remaining,Australia
+2006/07,West Indies,ICC Cricket World Cup,Semi-final,Day,24-Apr-07,Kingston,Kingston,Sri Lanka,New Zealand,289 for 5,208,Sri Lanka,81,Runs,,Australia
+2006/07,West Indies,ICC Cricket World Cup,League,Day,16-Mar-07,Gros Islet,Kolkata,England,New Zealand,209 for 7,210 for 4,New Zealand,6,Wickets,With 54 balls remaining,Australia
+2006/07,West Indies,ICC Cricket World Cup,League,Day,28-Mar-07,Super Eights,Kolkata,Sri Lanka,South Africa,209,212 for 9,South Africa,1,Wickets,With 10 balls remaining,Australia
+2006/07,West Indies,ICC Cricket World Cup,Final,Day,28-Apr-07,Bridgetown,Bridgetown,Australia,Sri Lanka,281 for 4,215 for 8,Australia,53,Runs,D/L method,Australia
+2006/07,West Indies,ICC Cricket World Cup,League,Day,30-Mar-07,Super Eights,Kolkata,England,Ireland,266 for 7,218,England,48,Runs,,Australia
+2006/07,West Indies,ICC Cricket World Cup,League,Day,"March 27 - 28, 2007",Super Eights,Kolkata,Australia,West Indies,322 for 6,219,Australia,103,Runs,,Australia
+2006/07,West Indies,ICC Cricket World Cup,League,Day,15-Mar-07,Kingston,Kingston,Ireland,Zimbabwe,221 for 9,221,Match tied,,Match tied,,Australia
+2006/07,West Indies,ICC Cricket World Cup,League,Day,12-Apr-07,Super Eights,Kolkata,New Zealand,Sri Lanka,219 for 7,222 for 4,Sri Lanka,6,Wickets,With 29 balls remaining,Australia
+2006/07,West Indies,ICC Cricket World Cup,League,Day,18-Mar-07,Gros Islet,Kolkata,England,Canada,279 for 6,228 for 7,England,51,Runs,,Australia
+2006/07,West Indies,ICC Cricket World Cup,League,Day,16-Apr-07,Super Eights,Kolkata,Sri Lanka,Australia,226,232 for 3,Australia,7,Wickets,With 44 balls remaining,Australia
+2006/07,West Indies,ICC Cricket World Cup,League,Day,04-Apr-07,Super Eights,Kolkata,Sri Lanka,England,235,233 for 8,Sri Lanka,2,Runs,,Australia
+2006/07,West Indies,ICC Cricket World Cup,League,Day,08-Apr-07,Super Eights,Kolkata,England,Australia,247,248 for 3,Australia,7,Wickets,With 16 balls remaining,Australia
+2006/07,West Indies,ICC Cricket World Cup,League,Day,22-Mar-07,Gros Islet,Kolkata,New Zealand,Canada,363 for 5,249,New Zealand,114,Runs,,Australia
+2006/07,West Indies,ICC Cricket World Cup,League,Day,10-Apr-07,Super Eights,Kolkata,South Africa,West Indies,356 for 4,289 for 9,South Africa,67,Runs,,Australia
+2006/07,West Indies,ICC Cricket World Cup,League,Day,24-Mar-07,Basseterre,Basseterre,Australia,South Africa,377 for 6,294,Australia,83,Runs,,Australia
+2006/07,West Indies,ICC Cricket World Cup,League,Day,21-Apr-07,Super Eights,Kolkata,West Indies,England,300,301 for 9,England,1,Wickets,With 1 ball remaining,Australia
+2006/07,West Indies,ICC Cricket World Cup,League,Day,15-Mar-07,Port of Spain,Spain,Sri Lanka,Bermuda,321 for 6,78,Sri Lanka,243,Runs,,Australia
+2006/07,West Indies,ICC Cricket World Cup,League,Day,18-Apr-07,Super Eights,Kolkata,Ireland,Sri Lanka,77,81 for 2,Sri Lanka,8,Wickets,With 240 balls remaining,Australia
+2006/07,West Indies,ICC Cricket World Cup,League,Day,13-Apr-07,Super Eights,Kolkata,Ireland,Australia,91,92 for 1,Australia,9,Wickets,With 226 balls remaining,Australia
+2006/07,West Indies,ICC Cricket World Cup,League,Day,25-Mar-07,Port of Spain,Spain,Bermuda,Bangladesh,94 for 9,96 for 3,Bangladesh,7,Wickets,D/L method,Australia
+2006/07,West Indies,ICC Cricket World Cup,League,Day,21-Mar-07,Kingston,Kingston,Pakistan,Zimbabwe,349,99,Pakistan,93,Runs,D/L method,Australia
+2002/03,Kenya/South Africa/Zimbabwe,ICC Cricket World Cup,League,Day,04-Mar-03,Kimberley,Kimberley,West Indies,Kenya,246 for 7,104,West Indies,142,Runs,,Australia
+2002/03,Kenya/South Africa/Zimbabwe,ICC Cricket World Cup,League,Day,10-Feb-03,Harare,Harare,Zimbabwe,Namibia,340 for 2,104 for 5,Zimbabwe,86,Runs,D/L method,Australia
+2002/03,Kenya/South Africa/Zimbabwe,ICC Cricket World Cup,Super Six Qualifiers,Day,10-Mar-03,Johannesburg,Johannesburg,India,Sri Lanka,292 for 6,109,India,183,Runs,,Australia
+2002/03,Kenya/South Africa/Zimbabwe,ICC Cricket World Cup,League,Day,22-Feb-03,Bloemfontein,Bloemfontein,Bangladesh,South Africa,108,109 for 0,South Africa,10,Wickets,With 228 balls remaining,Australia
+2002/03,Kenya/South Africa/Zimbabwe,ICC Cricket World Cup,Super Six Qualifiers,Day,11-Mar-03,Gqeberha,Gqeberha,Australia,New Zealand,208 for 9,112,Australia,96,Runs,,Australia
+2002/03,Kenya/South Africa/Zimbabwe,ICC Cricket World Cup,League,Day Night,11-Feb-03,Durban,Durban,Canada,Bangladesh,180,120,Canada,60,Runs,,Australia
+2002/03,Kenya/South Africa/Zimbabwe,ICC Cricket World Cup,League,Day,20-Feb-03,Potchefstroom,Potchefstroom,Australia,Netherlands,170 for 2,122,Australia,75,Runs,D/L method,Australia
+2002/03,Kenya/South Africa/Zimbabwe,ICC Cricket World Cup,Semi-final,Day,18-Mar-03,Gqeberha,Gqeberha,Australia,Sri Lanka,212 for 7,123 for 7,Australia,48,Runs,D/L method,Australia
+2002/03,Kenya/South Africa/Zimbabwe,ICC Cricket World Cup,League,Day,14-Feb-03,Pietermaritzburg,Pietermaritzburg,Bangladesh,Sri Lanka,124,126 for 0,Sri Lanka,10,Wickets,With 173 balls remaining,Australia
+2002/03,Kenya/South Africa/Zimbabwe,ICC Cricket World Cup,League,Day,15-Feb-03,Centurion,Centurion,India,Australia,125,128 for 1,Australia,9,Wickets,With 166 balls remaining,Australia
+2002/03,Kenya/South Africa/Zimbabwe,ICC Cricket World Cup,League,Day,23-Feb-03,Pietermaritzburg,Pietermaritzburg,India,Namibia,311 for 2,130,India,181,Runs,,Australia
+2002/03,Kenya/South Africa/Zimbabwe,ICC Cricket World Cup,League,Day Night,22-Feb-03,Cape Town,Kolkata,England,Pakistan,246 for 8,134,England,112,Runs,,Australia
+2002/03,Kenya/South Africa/Zimbabwe,ICC Cricket World Cup,Super Six Qualifiers,Day,12-Mar-03,Bloemfontein,Bloemfontein,Zimbabwe,Kenya,133,135 for 3,Kenya,7,Wickets,With 144 balls remaining,Australia
+2002/03,Kenya/South Africa/Zimbabwe,ICC Cricket World Cup,League,Day,12-Feb-03,Paarl,Paarl,India,Netherlands,204,136,India,68,Runs,,Australia
+2002/03,Kenya/South Africa/Zimbabwe,ICC Cricket World Cup,League,Day,27-Feb-03,East London,Kolkata,South Africa,Canada,254 for 8,136 for 5,South Africa,118,Runs,,Australia
+2002/03,Kenya/South Africa/Zimbabwe,ICC Cricket World Cup,League,Day,12-Feb-03,Potchefstroom,Potchefstroom,Kenya,South Africa,140,142 for 0,South Africa,10,Wickets,With 172 balls remaining,Australia
+2002/03,Kenya/South Africa/Zimbabwe,ICC Cricket World Cup,League,Day,16-Feb-03,East London,Kolkata,Netherlands,England,142 for 9,144 for 4,England,6,Wickets,With 160 balls remaining,Australia
+2002/03,Kenya/South Africa/Zimbabwe,ICC Cricket World Cup,Super Six Qualifiers,Day,14-Mar-03,Centurion,Centurion,New Zealand,India,146,150 for 3,India,7,Wickets,With 56 balls remaining,Australia
+2002/03,Kenya/South Africa/Zimbabwe,ICC Cricket World Cup,League,Day,25-Feb-03,Paarl,Paarl,Pakistan,Netherlands,253 for 9,156,Pakistan,97,Runs,,Australia
+2002/03,Kenya/South Africa/Zimbabwe,ICC Cricket World Cup,League,Day,24-Feb-03,Nairobi (Gym),Nairobi,Kenya,Sri Lanka,210 for 9,157,Kenya,53,Runs,,Australia
+2002/03,Kenya/South Africa/Zimbabwe,ICC Cricket World Cup,League,Day Night,26-Feb-03,Durban,Durban,India,England,250 for 9,168,India,82,Runs,,Australia
+2002/03,Kenya/South Africa/Zimbabwe,ICC Cricket World Cup,League,Day,19-Feb-03,Harare,Harare,India,Zimbabwe,255 for 7,172,India,83,Runs,,Australia
+2002/03,Kenya/South Africa/Zimbabwe,ICC Cricket World Cup,Super Six Qualifiers,Day Night,15-Mar-03,Durban,Durban,Kenya,Australia,174 for 8,178 for 5,Australia,5,Wickets,With 112 balls remaining,Australia
+2002/03,Kenya/South Africa/Zimbabwe,ICC Cricket World Cup,Semi-final,Day Night,20-Mar-03,Durban,Durban,India,Kenya,270 for 4,179,India,91,Runs,,Australia
+2002/03,Kenya/South Africa/Zimbabwe,ICC Cricket World Cup,Super Six Qualifiers,Day,15-Mar-03,East London,Kolkata,Sri Lanka,Zimbabwe,256 for 5,182,Sri Lanka,74,Runs,,Australia
+2002/03,Kenya/South Africa/Zimbabwe,ICC Cricket World Cup,League,Day,01-Mar-03,Johannesburg,Johannesburg,Kenya,Bangladesh,217 for 7,185,Kenya,32,Runs,,Australia
+2002/03,Kenya/South Africa/Zimbabwe,ICC Cricket World Cup,League,Day,03-Mar-03,Benoni,Benoni,Canada,New Zealand,196,197 for 5,New Zealand,5,Wickets,With 162 balls remaining,Australia
+2002/03,Kenya/South Africa/Zimbabwe,ICC Cricket World Cup,League,Day Night,15-Feb-03,Cape Town,Kolkata,Canada,Kenya,197,198 for 6,Kenya,4,Wickets,With 9 balls remaining,Australia
+2002/03,Kenya/South Africa/Zimbabwe,ICC Cricket World Cup,League,Day,26-Feb-03,Kimberley,Kimberley,Bangladesh,New Zealand,198 for 7,199 for 3,New Zealand,7,Wickets,With 99 balls remaining,Australia
+2002/03,Kenya/South Africa/Zimbabwe,ICC Cricket World Cup,League,Day,28-Feb-03,Bulawayo,Bulawayo,Zimbabwe,Netherlands,301 for 8,202 for 9,Zimbabwe,99,Runs,,Australia
+2002/03,Kenya/South Africa/Zimbabwe,ICC Cricket World Cup,League,Day,23-Feb-03,Centurion,Centurion,Canada,West Indies,202,206 for 3,West Indies,7,Wickets,With 177 balls remaining,Australia
+2002/03,Kenya/South Africa/Zimbabwe,ICC Cricket World Cup,League,Day,02-Mar-03,Gqeberha,Gqeberha,England,Australia,204 for 8,208 for 8,Australia,2,Wickets,With 2 balls remaining,Australia
+2002/03,Kenya/South Africa/Zimbabwe,ICC Cricket World Cup,League,Day,19-Feb-03,Gqeberha,Gqeberha,England,Namibia,272,217 for 9,England,55,Runs,,Australia
+2002/03,Kenya/South Africa/Zimbabwe,ICC Cricket World Cup,League,Day,13-Feb-03,Gqeberha,Gqeberha,New Zealand,West Indies,241 for 7,221,New Zealand,20,Runs,,Australia
+2002/03,Kenya/South Africa/Zimbabwe,ICC Cricket World Cup,League,Day Night,28-Feb-03,Cape Town,Kolkata,Sri Lanka,West Indies,228 for 6,222 for 9,Sri Lanka,6,Runs,,Australia
+2002/03,Kenya/South Africa/Zimbabwe,ICC Cricket World Cup,Super Six Qualifiers,Day,07-Mar-03,Centurion,Centurion,Australia,Sri Lanka,319 for 5,223,Australia,96,Runs,,Australia
+2002/03,Kenya/South Africa/Zimbabwe,ICC Cricket World Cup,League,Day,10-Feb-03,Bloemfontein,Bloemfontein,Sri Lanka,New Zealand,272 for 7,225,Sri Lanka,47,Runs,,Australia
+2002/03,Kenya/South Africa/Zimbabwe,ICC Cricket World Cup,Super Six Qualifiers,Day Night,07-Mar-03,Cape Town,Kolkata,Kenya,India,225 for 6,226 for 4,India,6,Wickets,With 13 balls remaining,Australia
+2002/03,Kenya/South Africa/Zimbabwe,ICC Cricket World Cup,League,Day,11-Feb-03,Johannesburg,Johannesburg,Australia,Pakistan,310 for 8,228,Australia,82,Runs,,Australia
+2002/03,Kenya/South Africa/Zimbabwe,ICC Cricket World Cup,League,Day,16-Feb-03,Johannesburg,Johannesburg,South Africa,New Zealand,306 for 6,229 for 1,New Zealand,9,Wickets,D/L method,Australia
+2002/03,Kenya/South Africa/Zimbabwe,ICC Cricket World Cup,League,Day Night,03-Mar-03,Durban,Durban,Sri Lanka,South Africa,268 for 9,229 for 6,Match tied (D/L method),,Match tied (D/L method),D/L method,Australia
+2002/03,Kenya/South Africa/Zimbabwe,ICC Cricket World Cup,Final,Day,23-Mar-03,Johannesburg,Johannesburg,Australia,India,359 for 2,234,Australia,125,Runs,,Australia
+2002/03,Kenya/South Africa/Zimbabwe,ICC Cricket World Cup,League,Day,24-Feb-03,Bulawayo,Bulawayo,Zimbabwe,Australia,246 for 9,248 for 3,Australia,7,Wickets,With 15 balls remaining,Australia
+2002/03,Kenya/South Africa/Zimbabwe,ICC Cricket World Cup,League,Day,03-Mar-03,Bloemfontein,Bloemfontein,Netherlands,Namibia,314 for 4,250,Netherlands,64,Runs,,Australia
+2002/03,Kenya/South Africa/Zimbabwe,ICC Cricket World Cup,Super Six Qualifiers,Day,08-Mar-03,Bloemfontein,Bloemfontein,Zimbabwe,New Zealand,252 for 7,253 for 4,New Zealand,6,Wickets,With 16 balls remaining,Australia
+2002/03,Kenya/South Africa/Zimbabwe,ICC Cricket World Cup,League,Day Night,09-Feb-03,Cape Town,Kolkata,West Indies,South Africa,278 for 5,275 for 9,West Indies,3,Runs,,Australia
+2002/03,Kenya/South Africa/Zimbabwe,ICC Cricket World Cup,League,Day,01-Mar-03,Centurion,Centurion,Pakistan,India,273 for 7,276 for 4,India,6,Wickets,With 26 balls remaining,Australia
+2002/03,Kenya/South Africa/Zimbabwe,ICC Cricket World Cup,League,Day,18-Feb-03,Benoni,Benoni,West Indies,Bangladesh,244 for 9,32 for 2,No result,,No result,,Australia
+2002/03,Kenya/South Africa/Zimbabwe,ICC Cricket World Cup,League,Day,19-Feb-03,Paarl,Paarl,Canada,Sri Lanka,36,37 for 1,Sri Lanka,9,Wickets,With 272 balls remaining,Australia
+2002/03,Kenya/South Africa/Zimbabwe,ICC Cricket World Cup,League,Day,27-Feb-03,Potchefstroom,Potchefstroom,Australia,Namibia,301 for 6,45,Australia,256,Runs,,Australia
+2002/03,Kenya/South Africa/Zimbabwe,ICC Cricket World Cup,League,Day,16-Feb-03,Kimberley,Kimberley,Pakistan,Namibia,255 for 9,84,Pakistan,171,Runs,,Australia
+2002/03,Kenya/South Africa/Zimbabwe,ICC Cricket World Cup,League,Day,21-Feb-03,Nairobi (Gym),Nairobi,Kenya,New Zealand,,,Kenya,,Walkover win without a ball bowled,Walkover win Without a ball bowled,Australia
+2002/03,Kenya/South Africa/Zimbabwe,ICC Cricket World Cup,League,Day,04-Mar-03,Bulawayo,Bulawayo,Pakistan,Zimbabwe,73 for 3,,No result,,No result,,Australia
+2002/03,Kenya/South Africa/Zimbabwe,ICC Cricket World Cup,League,Day,13-Feb-03,Harare,Harare,Zimbabwe,England,,,Zimbabwe,,Walkover win without a ball bowled,Walkover win Without a ball bowled,Australia
+1999,England/Ireland/Netherlands/Scotland,ICC Cricket World Cup,League,Day,22-May-99,The Oval,Kolkata,South Africa,England,225 for 7,103,South Africa,122,Runs,,Australia
+1999,England/Ireland/Netherlands/Scotland,ICC Cricket World Cup,League,Day,19-May-99,Northampton,Northampton,South Africa,Sri Lanka,199 for 9,110,South Africa,89,Runs,,Australia
+1999,England/Ireland/Netherlands/Scotland,ICC Cricket World Cup,League,Day,30-May-99,Manchester,Manchester,West Indies,Australia,110,111 for 4,Australia,6,Wickets,With 56 balls remaining,Australia
+1999,England/Ireland/Netherlands/Scotland,ICC Cricket World Cup,League,Day,17-May-99,Chelmsford,Chelmsford,Bangladesh,New Zealand,116,117 for 4,New Zealand,6,Wickets,With 102 balls remaining,Australia
+1999,England/Ireland/Netherlands/Scotland,ICC Cricket World Cup,Super Six Qualifiers,Day,11-Jun-99,The Oval,Kolkata,Pakistan,Zimbabwe,271 for 9,123,Pakistan,148,Runs,,Australia
+1999,England/Ireland/Netherlands/Scotland,ICC Cricket World Cup,League,Day,31-May-99,Edinburgh,Edinburgh,Scotland,New Zealand,121,123 for 4,New Zealand,6,Wickets,With 193 balls remaining,Australia
+1999,England/Ireland/Netherlands/Scotland,ICC Cricket World Cup,Final,Day,20-Jun-99,Lord's,Kolkata,Pakistan,Australia,132,133 for 2,Australia,8,Wickets,With 179 balls remaining,Australia
+1999,England/Ireland/Netherlands/Scotland,ICC Cricket World Cup,League,Day,26-May-99,Amstelveen,Amstelveen,Kenya,South Africa,152,153 for 3,South Africa,7,Wickets,With 54 balls remaining,Australia
+1999,England/Ireland/Netherlands/Scotland,ICC Cricket World Cup,League,Day,24-May-99,Southampton,Southampton,New Zealand,West Indies,156,158 for 3,West Indies,7,Wickets,With 34 balls remaining,Australia
+1999,England/Ireland/Netherlands/Scotland,ICC Cricket World Cup,League,Day,31-May-99,Northampton,Northampton,Bangladesh,Pakistan,223 for 9,161,Bangladesh,62,Runs,,Australia
+1999,England/Ireland/Netherlands/Scotland,ICC Cricket World Cup,League,Day,24-May-99,Edinburgh,Edinburgh,Bangladesh,Scotland,185 for 9,163,Bangladesh,22,Runs,,Australia
+1999,England/Ireland/Netherlands/Scotland,ICC Cricket World Cup,League,Day,20-May-99,Chester-le-Street,Chester-le-Street,Pakistan,Scotland,261 for 6,167,Pakistan,94,Runs,,Australia
+1999,England/Ireland/Netherlands/Scotland,ICC Cricket World Cup,League,Day,25-May-99,Nottingham,Nottingham,Zimbabwe,England,167 for 8,168 for 3,England,7,Wickets,With 69 balls remaining,Australia
+1999,England/Ireland/Netherlands/Scotland,ICC Cricket World Cup,League,Day,"May 29 - 30, 1999",Birmingham,Birmingham,India,England,232 for 8,169,India,63,Runs,,Australia
+1999,England/Ireland/Netherlands/Scotland,ICC Cricket World Cup,Super Six Qualifiers,Day,08-Jun-99,Manchester,Manchester,India,Pakistan,227 for 6,180,India,47,Runs,,Australia
+1999,England/Ireland/Netherlands/Scotland,ICC Cricket World Cup,League,Day,27-May-99,Chester-le-Street,Chester-le-Street,Bangladesh,Australia,178 for 7,181 for 3,Australia,7,Wickets,With 181 balls remaining,Australia
+1999,England/Ireland/Netherlands/Scotland,ICC Cricket World Cup,League,Day,16-May-99,Worcester,Worcester,Scotland,Australia,181 for 7,182 for 4,Australia,6,Wickets,With 31 balls remaining,Australia
+1999,England/Ireland/Netherlands/Scotland,ICC Cricket World Cup,League,Day,21-May-99,Dublin,Dublin,Bangladesh,West Indies,182,183 for 3,West Indies,7,Wickets,With 21 balls remaining,Australia
+1999,England/Ireland/Netherlands/Scotland,ICC Cricket World Cup,League,Day,29-May-99,Chelmsford,Chelmsford,Zimbabwe,South Africa,233 for 6,185,Zimbabwe,48,Runs,,Australia
+1999,England/Ireland/Netherlands/Scotland,ICC Cricket World Cup,League,Day,22-May-99,Worcester,Worcester,Zimbabwe,Sri Lanka,197 for 9,198 for 6,Sri Lanka,4,Wickets,With 24 balls remaining,Australia
+1999,England/Ireland/Netherlands/Scotland,ICC Cricket World Cup,League,Day,16-May-99,Bristol,Bristol,Pakistan,West Indies,229 for 8,202,Pakistan,27,Runs,,Australia
+1999,England/Ireland/Netherlands/Scotland,ICC Cricket World Cup,League,Day,18-May-99,Canterbury,Canterbury,Kenya,England,203,204 for 1,England,9,Wickets,With 66 balls remaining,Australia
+1999,England/Ireland/Netherlands/Scotland,ICC Cricket World Cup,Super Six Qualifiers,Day,04-Jun-99,The Oval,Kolkata,Australia,India,282 for 6,205,Australia,77,Runs,,Australia
+1999,England/Ireland/Netherlands/Scotland,ICC Cricket World Cup,League,Day,14-May-99,Lord's,Kolkata,Sri Lanka,England,204,207 for 2,England,8,Wickets,With 19 balls remaining,Australia
+1999,England/Ireland/Netherlands/Scotland,ICC Cricket World Cup,League,Day,28-May-99,Derby,Derby,Pakistan,New Zealand,269 for 8,207 for 8,Pakistan,62,Runs,,Australia
+1999,England/Ireland/Netherlands/Scotland,ICC Cricket World Cup,Semi-final,Day,17-Jun-99,Birmingham,Birmingham,Australia,South Africa,213,213,Match tied,,Match tied,,Australia
+1999,England/Ireland/Netherlands/Scotland,ICC Cricket World Cup,Super Six Qualifiers,Day,10-Jun-99,Birmingham,Birmingham,South Africa,New Zealand,287 for 5,213 for 8,South Africa,74,Runs,,Australia
+1999,England/Ireland/Netherlands/Scotland,ICC Cricket World Cup,League,Day,20-May-99,Cardiff,Cardiff,Australia,New Zealand,213 for 8,214 for 5,New Zealand,5,Wickets,With 28 balls remaining,Australia
+1999,England/Ireland/Netherlands/Scotland,ICC Cricket World Cup,League,Day,26-May-99,Taunton,Taunton,India,Sri Lanka,373 for 6,216,India,157,Runs,,Australia
+1999,England/Ireland/Netherlands/Scotland,ICC Cricket World Cup,Super Six Qualifiers,Day,05-Jun-99,Nottingham,Nottingham,Pakistan,South Africa,220 for 7,221 for 7,South Africa,3,Wickets,With 6 balls remaining,Australia
+1999,England/Ireland/Netherlands/Scotland,ICC Cricket World Cup,League,Day,30-May-99,Southampton,Southampton,Sri Lanka,Kenya,275 for 8,230 for 6,Sri Lanka,45,Runs,,Australia
+1999,England/Ireland/Netherlands/Scotland,ICC Cricket World Cup,League,Day,15-May-99,Taunton,Taunton,Kenya,Zimbabwe,229 for 7,231 for 5,Zimbabwe,5,Wickets,With 54 balls remaining,Australia
+1999,England/Ireland/Netherlands/Scotland,ICC Cricket World Cup,League,Day,23-May-99,Bristol,Bristol,India,Kenya,329 for 2,235 for 7,India,94,Runs,,Australia
+1999,England/Ireland/Netherlands/Scotland,ICC Cricket World Cup,Semi-final,Day,16-Jun-99,Manchester,Manchester,New Zealand,Pakistan,241 for 7,242 for 1,Pakistan,9,Wickets,With 15 balls remaining,Australia
+1999,England/Ireland/Netherlands/Scotland,ICC Cricket World Cup,League,Day,19-May-99,Leicester,Leicester,Zimbabwe,India,252 for 9,249,Zimbabwe,3,Runs,,Australia
+1999,England/Ireland/Netherlands/Scotland,ICC Cricket World Cup,Super Six Qualifiers,Day,12-Jun-99,Nottingham,Nottingham,India,New Zealand,251 for 6,253 for 5,New Zealand,5,Wickets,With 10 balls remaining,Australia
+1999,England/Ireland/Netherlands/Scotland,ICC Cricket World Cup,League,Day,15-May-99,Hove,Hove,India,South Africa,253 for 5,254 for 6,South Africa,4,Wickets,With 16 balls remaining,Australia
+1999,England/Ireland/Netherlands/Scotland,ICC Cricket World Cup,Super Six Qualifiers,Day,09-Jun-99,Lord's,Kolkata,Australia,Zimbabwe,303 for 4,259 for 6,Australia,44,Runs,,Australia
+1999,England/Ireland/Netherlands/Scotland,ICC Cricket World Cup,League,Day,23-May-99,Leeds,Leeds,Pakistan,Australia,275 for 8,265,Pakistan,10,Runs,,Australia
+1999,England/Ireland/Netherlands/Scotland,ICC Cricket World Cup,Super Six Qualifiers,Day,13-Jun-99,Leeds,Leeds,South Africa,Australia,271 for 7,272 for 5,Australia,5,Wickets,With 2 balls remaining,Australia
+1999,England/Ireland/Netherlands/Scotland,ICC Cricket World Cup,League,Day,27-May-99,Leicester,Leicester,Scotland,West Indies,68,70 for 2,West Indies,8,Wickets,With 239 balls remaining,Australia
+1999,England/Ireland/Netherlands/Scotland,ICC Cricket World Cup,Super Six Qualifiers,Day,"June 06 - 07, 1999",Leeds,Leeds,Zimbabwe,New Zealand,175,70 for 3,No result,,No result,,Australia
+1991/92,Australia/New Zealand,Benson and Hedges World Cup,League,Day,07-Mar-92,Hamilton,Hamilton,India,Zimbabwe,203 for 7,104 for 1,India,55,Runs,revised target,Pakistan
+1991/92,Australia/New Zealand,Benson and Hedges World Cup,League,Day,03-Mar-92,Napier,Napier,New Zealand,Zimbabwe,162 for 3,105 for 7,New Zealand,48,Runs,revised target,Pakistan
+1991/92,Australia/New Zealand,Benson and Hedges World Cup,League,Day,18-Mar-92,Albury,Albury,Zimbabwe,England,134,125,Zimbabwe,9,Runs,,Pakistan
+1991/92,Australia/New Zealand,Benson and Hedges World Cup,League,Day,05-Mar-92,Christchurch,Christchurch,South Africa,West Indies,200 for 8,136,South Africa,64,Runs,,Pakistan
+1991/92,Australia/New Zealand,Benson and Hedges World Cup,League,Day,14-Mar-92,Hobart,Hobart,Australia,Zimbabwe,265 for 6,137,Australia,128,Runs,,Pakistan
+1991/92,Australia/New Zealand,Benson and Hedges World Cup,League,Day Night,18-Mar-92,Melbourne,Melbourne,Australia,West Indies,216 for 6,159,Australia,57,Runs,,Pakistan
+1991/92,Australia/New Zealand,Benson and Hedges World Cup,League,Day Night,27-Feb-92,Melbourne,Melbourne,West Indies,England,157,160 for 4,England,6,Wickets,With 61 balls remaining,Pakistan
+1991/92,Australia/New Zealand,Benson and Hedges World Cup,League,Day,10-Mar-92,Canberra,Canberra,Zimbabwe,South Africa,163,164 for 3,South Africa,7,Wickets,With 29 balls remaining,Pakistan
+1991/92,Australia/New Zealand,Benson and Hedges World Cup,League,Day,18-Mar-92,Christchurch,Christchurch,New Zealand,Pakistan,166,167 for 3,Pakistan,7,Wickets,With 32 balls remaining,Pakistan
+1991/92,Australia/New Zealand,Benson and Hedges World Cup,League,Day Night,26-Feb-92,Sydney,Sydney,Australia,South Africa,170 for 9,171 for 1,South Africa,9,Wickets,With 13 balls remaining,Pakistan
+1991/92,Australia/New Zealand,Benson and Hedges World Cup,League,Day Night,11-Mar-92,Perth,Perth,Pakistan,Australia,220 for 9,172,Pakistan,48,Runs,,Pakistan
+1991/92,Australia/New Zealand,Benson and Hedges World Cup,League,Day Night,04-Mar-92,Sydney,Sydney,India,Pakistan,216 for 7,173,India,43,Runs,,Pakistan
+1991/92,Australia/New Zealand,Benson and Hedges World Cup,League,Day Night,05-Mar-92,Sydney,Sydney,Australia,England,171,173 for 2,England,8,Wickets,With 55 balls remaining,Pakistan
+1991/92,Australia/New Zealand,Benson and Hedges World Cup,League,Day,08-Mar-92,Brisbane,Brisbane,South Africa,Pakistan,211 for 7,173 for 8,South Africa,20,Runs,revised target,Pakistan
+1991/92,Australia/New Zealand,Benson and Hedges World Cup,League,Day,09-Mar-92,Ballarat,Ballarat,England,Sri Lanka,280 for 6,174,England,106,Runs,,Pakistan
+1991/92,Australia/New Zealand,Benson and Hedges World Cup,League,Day,13-Mar-92,Berri,Berri,West Indies,Sri Lanka,268 for 8,177 for 9,West Indies,91,Runs,,Pakistan
+1991/92,Australia/New Zealand,Benson and Hedges World Cup,League,Day,15-Mar-92,Adelaide,Adelaide,India,South Africa,180 for 6,181 for 4,South Africa,6,Wickets,With 5 balls remaining,Pakistan
+1991/92,Australia/New Zealand,Benson and Hedges World Cup,League,Day,29-Feb-92,Brisbane,Brisbane,West Indies,Zimbabwe,264 for 8,189 for 7,West Indies,75,Runs,,Pakistan
+1991/92,Australia/New Zealand,Benson and Hedges World Cup,League,Day,07-Mar-92,Adelaide,Adelaide,Sri Lanka,Australia,189 for 9,190 for 3,Australia,7,Wickets,With 36 balls remaining,Pakistan
+1991/92,Australia/New Zealand,Benson and Hedges World Cup,League,Day,29-Feb-92,Auckland,Auckland,South Africa,New Zealand,190 for 7,191 for 3,New Zealand,7,Wickets,With 93 balls remaining,Pakistan
+1991/92,Australia/New Zealand,Benson and Hedges World Cup,League,Day,10-Mar-92,Wellington,Wellington,India,West Indies,197,195 for 5,West Indies,5,Wickets,revised target,Pakistan
+1991/92,Australia/New Zealand,Benson and Hedges World Cup,League,Day,02-Mar-92,Wellington,Wellington,South Africa,Sri Lanka,195,198 for 7,Sri Lanka,3,Wickets,With 1 ball remaining,Pakistan
+1991/92,Australia/New Zealand,Benson and Hedges World Cup,League,Day,15-Mar-92,Wellington,Wellington,England,New Zealand,200 for 8,201 for 3,New Zealand,7,Wickets,With 55 balls remaining,Pakistan
+1991/92,Australia/New Zealand,Benson and Hedges World Cup,League,Day,27-Feb-92,Hobart,Hobart,Pakistan,Zimbabwe,254 for 4,201 for 7,Pakistan,53,Runs,,Pakistan
+1991/92,Australia/New Zealand,Benson and Hedges World Cup,League,Day,08-Mar-92,Auckland,Auckland,West Indies,New Zealand,203 for 7,206 for 5,New Zealand,5,Wickets,With 9 balls remaining,Pakistan
+1991/92,Australia/New Zealand,Benson and Hedges World Cup,League,Day,25-Feb-92,Hamilton,Hamilton,Sri Lanka,New Zealand,206 for 9,210 for 4,New Zealand,6,Wickets,With 10 balls remaining,Pakistan
+1991/92,Australia/New Zealand,Benson and Hedges World Cup,League,Day,22-Feb-92,Auckland,Auckland,New Zealand,Australia,248 for 6,211,New Zealand,37,Runs,,Pakistan
+1991/92,Australia/New Zealand,Benson and Hedges World Cup,League,Day,15-Mar-92,Perth,Perth,Sri Lanka,Pakistan,212 for 6,216 for 6,Pakistan,4,Wickets,With 5 balls remaining,Pakistan
+1991/92,Australia/New Zealand,Benson and Hedges World Cup,League,Day,23-Feb-92,Melbourne,Melbourne,Pakistan,West Indies,220 for 2,221 for 0,West Indies,10,Wickets,With 19 balls remaining,Pakistan
+1991/92,Australia/New Zealand,Benson and Hedges World Cup,League,Day Night,12-Mar-92,Melbourne,Melbourne,South Africa,England,236 for 4,226 for 7,England,3,Wickets,revised target,Pakistan
+1991/92,Australia/New Zealand,Benson and Hedges World Cup,Final,Day Night,25-Mar-92,Melbourne,Melbourne,Pakistan,England,249 for 6,227,Pakistan,22,Runs,,Pakistan
+1991/92,Australia/New Zealand,Benson and Hedges World Cup,League,Day Night,22-Feb-92,Perth,Perth,England,India,236 for 9,227,England,9,Runs,,Pakistan
+1991/92,Australia/New Zealand,Benson and Hedges World Cup,League,Day,12-Mar-92,Dunedin,Dunedin,India,New Zealand,230 for 6,231 for 6,New Zealand,4,Wickets,With 17 balls remaining,Pakistan
+1991/92,Australia/New Zealand,Benson and Hedges World Cup,Semi-final,Day Night,22-Mar-92,Sydney,Sydney,England,South Africa,252 for 6,232 for 6,England,19,Runs,revised target,Pakistan
+1991/92,Australia/New Zealand,Benson and Hedges World Cup,League,Day,01-Mar-92,Brisbane,Brisbane,Australia,India,237 for 9,234,Australia,1,Runs,revised target,Pakistan
+1991/92,Australia/New Zealand,Benson and Hedges World Cup,League,Day,01-Mar-92,Adelaide,Adelaide,Pakistan,England,74,24 for 1,No result,,No result,,Pakistan
+1991/92,Australia/New Zealand,Benson and Hedges World Cup,Semi-final,Day,21-Mar-92,Auckland,Auckland,New Zealand,Pakistan,262 for 7,264 for 6,Pakistan,4,Wickets,With 6 balls remaining,Pakistan
+1991/92,Australia/New Zealand,Benson and Hedges World Cup,League,Day,23-Feb-92,New Plymouth,Kolkata,Zimbabwe,Sri Lanka,312 for 4,313 for 7,Sri Lanka,3,Wickets,With 4 balls remaining,Pakistan
+1991/92,Australia/New Zealand,Benson and Hedges World Cup,League,Day,28-Feb-92,Mackay,Mackay,India,Sri Lanka,1 for 0,,No result,,No result,,Pakistan
+1987/88,India/Pakistan,Reliance World Cup,League,Day,17-Oct-87,Wankhede,Mumbai,Zimbabwe,India,135,136 for 2,India,8,Wickets,With 133 balls remaining,Australia
+1987/88,India/Pakistan,Reliance World Cup,League,Day,13-Oct-87,Chennai,Chennai,Australia,Zimbabwe,235 for 9,139,Australia,96,Runs,,Australia
+1987/88,India/Pakistan,Reliance World Cup,League,Day,17-Oct-87,Peshawar,Peshawar,England,Sri Lanka,296 for 4,158 for 8,England,108,Runs,revised target,Australia
+1987/88,India/Pakistan,Reliance World Cup,League,Day,13-Oct-87,Karachi,Karachi,West Indies,Sri Lanka,360 for 4,169 for 4,West Indies,191,Runs,,Australia
+1987/88,India/Pakistan,Reliance World Cup,League,Day,25-Oct-87,Faisalabad,Faisalabad,Pakistan,Sri Lanka,297 for 7,184 for 8,Pakistan,113,Runs,,Australia
+1987/88,India/Pakistan,Reliance World Cup,League,Day,26-Oct-87,Ahmedabad,Ahmedabad,Zimbabwe,India,191 for 7,194 for 3,India,7,Wickets,With 48 balls remaining,Australia
+1987/88,India/Pakistan,Reliance World Cup,League,Day,30-Oct-87,Cuttack,Cuttack,Australia,Zimbabwe,266 for 5,196 for 6,Australia,70,Runs,,Australia
+1987/88,India/Pakistan,Reliance World Cup,League,Day,"October 18 - 19, 1987",Indore,Indore,Australia,New Zealand,199 for 4,196 for 9,Australia,3,Runs,,Australia
+1987/88,India/Pakistan,Reliance World Cup,League,Day,21-Oct-87,Kanpur,Kanpur,West Indies,Sri Lanka,236 for 8,211 for 8,West Indies,25,Runs,,Australia
+1987/88,India/Pakistan,Reliance World Cup,League,Day,16-Oct-87,Lahore,Lahore,West Indies,Pakistan,216,217 for 9,Pakistan,1,Wickets,With 0 balls remaining,Australia
+1987/88,India/Pakistan,Reliance World Cup,Semi-final,Day,05-Nov-87,Wankhede,Mumbai,England,India,254 for 6,219,England,35,Runs,,Australia
+1987/88,India/Pakistan,Reliance World Cup,League,Day,30-Oct-87,Pune,Pune,Sri Lanka,England,218 for 7,219 for 2,England,8,Wickets,With 52 balls remaining,Australia
+1987/88,India/Pakistan,Reliance World Cup,League,Day,"October 12 - 13, 1987",Rawalpindi,Rawalpindi,Pakistan,England,239 for 7,221,Pakistan,18,Runs,,Australia
+1987/88,India/Pakistan,Reliance World Cup,League,Day,31-Oct-87,Nagpur,Nagpur,New Zealand,India,221 for 9,224 for 1,India,9,Wickets,With 107 balls remaining,Australia
+1987/88,India/Pakistan,Reliance World Cup,League,Day,23-Oct-87,Eden Gardens,Kolkata,Zimbabwe,New Zealand,227 for 5,228 for 6,New Zealand,4,Wickets,With 14 balls remaining,Australia
+1987/88,India/Pakistan,Reliance World Cup,League,Day,30-Oct-87,Karachi,Karachi,West Indies,Pakistan,258 for 7,230 for 9,West Indies,28,Runs,,Australia
+1987/88,India/Pakistan,Reliance World Cup,League,Day,22-Oct-87,Delhi,Delhi,India,Australia,289 for 6,233,India,56,Runs,,Australia
+1987/88,India/Pakistan,Reliance World Cup,League,Day,27-Oct-87,Chandigarh,Chandigarh,Australia,New Zealand,251 for 8,234,Australia,17,Runs,,Australia
+1987/88,India/Pakistan,Reliance World Cup,League,Day,26-Oct-87,Jaipur,Jaipur,England,West Indies,269 for 5,235,England,34,Runs,,Australia
+1987/88,India/Pakistan,Reliance World Cup,League,Day,14-Oct-87,Bengaluru,Bengaluru,India,New Zealand,252 for 7,236 for 8,India,16,Runs,,Australia
+1987/88,India/Pakistan,Reliance World Cup,League,Day,10-Oct-87,Hyderabad (Deccan),Kolkata,New Zealand,Zimbabwe,242 for 7,239,New Zealand,3,Runs,,Australia
+1987/88,India/Pakistan,Reliance World Cup,League,Day,09-Oct-87,Gujranwala,Gujranwala,West Indies,England,243 for 7,246 for 8,England,2,Wickets,With 3 balls remaining,Australia
+1987/88,India/Pakistan,Reliance World Cup,Final,Day,08-Nov-87,Eden Gardens,Kolkata,Australia,England,253 for 5,246 for 8,Australia,7,Runs,,Australia
+1987/88,India/Pakistan,Reliance World Cup,League,Day,20-Oct-87,Karachi,Karachi,England,Pakistan,244 for 9,247 for 3,Pakistan,7,Wickets,With 6 balls remaining,Australia
+1987/88,India/Pakistan,Reliance World Cup,Semi-final,Day,04-Nov-87,Lahore,Lahore,Australia,Pakistan,267 for 8,249,Australia,18,Runs,,Australia
+1987/88,India/Pakistan,Reliance World Cup,League,Day,08-Oct-87,Hyderabad (Sind),Hyderabad (Sind),Pakistan,Sri Lanka,267 for 6,252,Pakistan,15,Runs,,Australia
+1987/88,India/Pakistan,Reliance World Cup,League,Day,09-Oct-87,Chennai,Chennai,Australia,India,270 for 6,269,Australia,1,Runs,,Australia
+1983,England,Prudential World Cup,League,Day,20-Jun-83,Chelmsford,Chelmsford,India,Australia,247,129,India,118,Runs,,India
+1983,England,Prudential World Cup,League,Day,20-Jun-83,Leeds,Leeds,Sri Lanka,England,136,137 for 1,England,9,Wickets,With 215 balls remaining,India
+1983,England,Prudential World Cup,Final,Day,25-Jun-83,Lord's,Kolkata,India,West Indies,183,140,India,43,Runs,,India
+1983,England,Prudential World Cup,League,Day,"June 11 - 12, 1983",Leeds,Leeds,West Indies,Australia,252 for 9,151,West Indies,101,Runs,,India
+1983,England,Prudential World Cup,League,Day,11-Jun-83,Leicester,Leicester,Zimbabwe,India,155,157 for 5,India,5,Wickets,With 135 balls remaining,India
+1983,England,Prudential World Cup,League,Day,13-Jun-83,Nottingham,Nottingham,Australia,India,320 for 9,158,Australia,162,Runs,,India
+1983,England,Prudential World Cup,League,Day,20-Jun-83,Birmingham,Birmingham,Zimbabwe,West Indies,171,172 for 0,West Indies,10,Wickets,With 89 balls remaining,India
+1983,England,Prudential World Cup,League,Day,18-Jun-83,Derby,Derby,New Zealand,Sri Lanka,181,184 for 7,Sri Lanka,3,Wickets,With 43 balls remaining,India
+1983,England,Prudential World Cup,League,Day,"June 11 - 12, 1983",Birmingham,Birmingham,New Zealand,Pakistan,238 for 9,186,New Zealand,52,Runs,,India
+1983,England,Prudential World Cup,Semi-final,Day,22-Jun-83,The Oval,Kolkata,Pakistan,West Indies,184 for 8,188 for 2,West Indies,8,Wickets,With 68 balls remaining,India
+1983,England,Prudential World Cup,League,Day,13-Jun-83,Lord's,Kolkata,Pakistan,England,193 for 8,199 for 2,England,8,Wickets,With 56 balls remaining,India
+1983,England,Prudential World Cup,League,Day,13-Jun-83,Bristol,Bristol,Sri Lanka,New Zealand,206,209 for 5,New Zealand,5,Wickets,With 124 balls remaining,India
+1983,England,Prudential World Cup,League,Day,09-Jun-83,The Oval,Kolkata,England,New Zealand,322 for 6,216,England,106,Runs,,India
+1983,England,Prudential World Cup,League,Day,15-Jun-83,The Oval,Kolkata,West Indies,India,282 for 9,216,West Indies,66,Runs,,India
+1983,England,Prudential World Cup,Semi-final,Day,22-Jun-83,Manchester,Manchester,England,India,213,217 for 4,India,6,Wickets,With 32 balls remaining,India
+1983,England,Prudential World Cup,League,Day,13-Jun-83,Worcester,Worcester,Zimbabwe,West Indies,217 for 7,218 for 2,West Indies,8,Wickets,With 69 balls remaining,India
+1983,England,Prudential World Cup,League,Day,16-Jun-83,Leeds,Leeds,Pakistan,Sri Lanka,235 for 7,224,Pakistan,11,Runs,,India
+1983,England,Prudential World Cup,League,Day,09-Jun-83,Nottingham,Nottingham,Zimbabwe,Australia,239 for 6,226 for 7,Zimbabwe,13,Runs,,India
+1983,England,Prudential World Cup,League,Day,"June 09 - 10, 1983",Manchester,Manchester,India,West Indies,262 for 8,228,India,34,Runs,,India
+1983,England,Prudential World Cup,League,Day,18-Jun-83,Manchester,Manchester,Pakistan,England,232 for 8,233 for 3,England,7,Wickets,With 16 balls remaining,India
+1983,England,Prudential World Cup,League,Day,18-Jun-83,Tunbridge Wells,Kolkata,India,Zimbabwe,266 for 8,235,India,31,Runs,,India
+1983,England,Prudential World Cup,League,Day,15-Jun-83,Birmingham,Birmingham,England,New Zealand,234,238 for 8,New Zealand,2,Wickets,With 1 ball remaining,India
+1983,England,Prudential World Cup,League,Day,16-Jun-83,Southampton,Southampton,Australia,Zimbabwe,272 for 7,240,Australia,32,Runs,,India
+1983,England,Prudential World Cup,League,Day,20-Jun-83,Nottingham,Nottingham,Pakistan,New Zealand,261 for 3,250,Pakistan,11,Runs,,India
+1983,England,Prudential World Cup,League,Day,18-Jun-83,Lord's,Kolkata,Australia,West Indies,273 for 6,276 for 3,West Indies,7,Wickets,With 13 balls remaining,India
+1983,England,Prudential World Cup,League,Day,11-Jun-83,Taunton,Taunton,England,Sri Lanka,333 for 9,286,England,47,Runs,,India
+1983,England,Prudential World Cup,League,Day,09-Jun-83,Swansea,Swansea,Pakistan,Sri Lanka,338 for 5,288 for 9,Pakistan,50,Runs,,India
+1979,England,Prudential World Cup,League,Day,16-Jun-79,Birmingham,Birmingham,Canada,Australia,105,106 for 3,Australia,7,Wickets,With 204 balls remaining,West Indies
+1979,England,Prudential World Cup,League,Day,09-Jun-79,Leeds,Leeds,Canada,Pakistan,139 for 9,140 for 2,Pakistan,8,Wickets,With 119 balls remaining,West Indies
+1979,England,Prudential World Cup,League,Day,16-Jun-79,Leeds,Leeds,England,Pakistan,165 for 9,151,England,14,Runs,,West Indies
+1979,England,Prudential World Cup,League,Day,09-Jun-79,Lord's,Kolkata,Australia,England,159 for 9,160 for 4,England,6,Wickets,With 77 balls remaining,West Indies
+1979,England,Prudential World Cup,League,Day,13-Jun-79,Leeds,Leeds,India,New Zealand,182,183 for 2,New Zealand,8,Wickets,With 18 balls remaining,West Indies
+1979,England,Prudential World Cup,League,Day,09-Jun-79,Nottingham,Nottingham,Sri Lanka,New Zealand,189,190 for 1,New Zealand,9,Wickets,With 74 balls remaining,West Indies
+1979,England,Prudential World Cup,League,Day,"June 16 - 18, 1979",Manchester,Manchester,Sri Lanka,India,238 for 5,191,Sri Lanka,47,Runs,,West Indies
+1979,England,Prudential World Cup,Final,Day,23-Jun-79,Lord's,Kolkata,West Indies,England,286 for 9,194,West Indies,92,Runs,,West Indies
+1979,England,Prudential World Cup,League,Day,09-Jun-79,Birmingham,Birmingham,India,West Indies,190,194 for 1,West Indies,9,Wickets,With 51 balls remaining,West Indies
+1979,England,Prudential World Cup,League,Day,"June 13 - 14, 1979",Nottingham,Nottingham,Pakistan,Australia,286 for 7,197,Pakistan,89,Runs,,West Indies
+1979,England,Prudential World Cup,League,Day,16-Jun-79,Nottingham,Nottingham,West Indies,New Zealand,244 for 7,212 for 9,West Indies,32,Runs,,West Indies
+1979,England,Prudential World Cup,Semi-final,Day,20-Jun-79,Manchester,Manchester,England,New Zealand,221 for 8,212 for 9,England,9,Runs,,West Indies
+1979,England,Prudential World Cup,Semi-final,Day,20-Jun-79,The Oval,Kolkata,West Indies,Pakistan,293 for 6,250,West Indies,43,Runs,,West Indies
+1979,England,Prudential World Cup,League,Day,"June 13 - 14, 1979",Manchester,Manchester,Canada,England,45,46 for 2,England,8,Wickets,With 277 balls remaining,West Indies
+1979,England,Prudential World Cup,League,Day,"June 13 - 15, 1979",The Oval,Kolkata,Sri Lanka,West Indies,,,Match abandoned without a ball bowled,,Match abandoned without a ball bowled,Match abandoned Without a ball bowled,West Indies
+1975,England,Prudential World Cup,League,Day,11-Jun-75,Leeds,Leeds,East Africa,India,120,123 for 0,India,10,Wickets,With 181 balls remaining,West Indies
+1975,England,Prudential World Cup,League,Day,07-Jun-75,Birmingham,Birmingham,New Zealand,East Africa,309 for 5,128 for 8,New Zealand,181,Runs,,West Indies
+1975,England,Prudential World Cup,League,Day,07-Jun-75,Lord's,Kolkata,England,India,334 for 4,132 for 3,England,202,Runs,,West Indies
+1975,England,Prudential World Cup,League,Day,14-Jun-75,Nottingham,Nottingham,Pakistan,Sri Lanka,330 for 6,138,Pakistan,192,Runs,,West Indies
+1975,England,Prudential World Cup,Semi-final,Day,18-Jun-75,The Oval,Kolkata,New Zealand,West Indies,158,159 for 5,West Indies,5,Wickets,With 119 balls remaining,West Indies
+1975,England,Prudential World Cup,League,Day,11-Jun-75,Nottingham,Nottingham,England,New Zealand,266 for 6,186,England,80,Runs,,West Indies
+1975,England,Prudential World Cup,League,Day,14-Jun-75,The Oval,Kolkata,Australia,West Indies,192,195 for 3,West Indies,7,Wickets,With 84 balls remaining,West Indies
+1975,England,Prudential World Cup,League,Day,07-Jun-75,Leeds,Leeds,Australia,Pakistan,278 for 7,205,Australia,73,Runs,,West Indies
+1975,England,Prudential World Cup,League,Day,14-Jun-75,Manchester,Manchester,India,New Zealand,230,233 for 6,New Zealand,4,Wickets,With 7 balls remaining,West Indies
+1975,England,Prudential World Cup,League,Day,11-Jun-75,Birmingham,Birmingham,Pakistan,West Indies,266 for 7,267 for 9,West Indies,1,Wickets,With 2 balls remaining,West Indies
+1975,England,Prudential World Cup,Final,Day,21-Jun-75,Lord's,Kolkata,West Indies,Australia,291 for 8,274,West Indies,17,Runs,,West Indies
+1975,England,Prudential World Cup,League,Day,11-Jun-75,The Oval,Kolkata,Australia,Sri Lanka,328 for 5,276 for 4,Australia,52,Runs,,West Indies
+1975,England,Prudential World Cup,League,Day,07-Jun-75,Manchester,Manchester,Sri Lanka,West Indies,86,87 for 1,West Indies,9,Wickets,With 236 balls remaining,West Indies
+1975,England,Prudential World Cup,League,Day,14-Jun-75,Birmingham,Birmingham,England,East Africa,290 for 5,94,England,196,Runs,,West Indies
+1975,England,Prudential World Cup,Semi-final,Day,18-Jun-75,Leeds,Leeds,England,Australia,93,94 for 6,Australia,4,Wickets,With 188 balls remaining,West Indies
+1995/96,India/Pakistan/Sri Lanka,Wills World Cup,League,Day,24-Feb-96,Gujranwala,Gujranwala,United Arab Emirates,Pakistan,109 for 9,112 for 1,Pakistan,9,Wickets,With 90 balls remaining,Sri Lanka
+1995/96,India/Pakistan/Sri Lanka,Wills World Cup,Semi-final,Day Night,13-Mar-96,Eden Gardens,Kolkata,Sri Lanka,India,251 for 8,120 for 8,Sri Lanka,,Default Winner,Default Winner,Sri Lanka
+1995/96,India/Pakistan/Sri Lanka,Wills World Cup,League,Day,27-Feb-96,Patna,Patna,Kenya,Zimbabwe,134,137 for 5,Zimbabwe,5,Wickets,With 46 balls remaining,Sri Lanka
+1995/96,India/Pakistan/Sri Lanka,Wills World Cup,League,Day,18-Feb-96,Peshawar,Peshawar,United Arab Emirates,England,136,140 for 2,England,8,Wickets,With 90 balls remaining,Sri Lanka
+1995/96,India/Pakistan/Sri Lanka,Wills World Cup,League,Day,26-Feb-96,Lahore,Lahore,Netherlands,Pakistan,145 for 7,151 for 2,Pakistan,8,Wickets,With 116 balls remaining,Sri Lanka
+1995/96,India/Pakistan/Sri Lanka,Wills World Cup,League,Day,25-Feb-96,Rawalpindi,Rawalpindi,South Africa,England,230,152,South Africa,78,Runs,,Sri Lanka
+1995/96,India/Pakistan/Sri Lanka,Wills World Cup,League,Day,16-Feb-96,Rawalpindi,Rawalpindi,South Africa,United Arab Emirates,321 for 2,152 for 8,South Africa,169,Runs,,Sri Lanka
+1995/96,India/Pakistan/Sri Lanka,Wills World Cup,League,Day Night,16-Feb-96,Hyderabad (Deccan),Kolkata,Zimbabwe,West Indies,151 for 9,155 for 4,West Indies,6,Wickets,With 123 balls remaining,Sri Lanka
+1995/96,India/Pakistan/Sri Lanka,Wills World Cup,League,Day,01-Mar-96,Nagpur,Nagpur,Zimbabwe,Australia,154,158 for 2,Australia,8,Wickets,With 84 balls remaining,Sri Lanka
+1995/96,India/Pakistan/Sri Lanka,Wills World Cup,League,Day,27-Feb-96,Faisalabad,Faisalabad,New Zealand,United Arab Emirates,276 for 8,167 for 9,New Zealand,109,Runs,,Sri Lanka
+1995/96,India/Pakistan/Sri Lanka,Wills World Cup,League,Day,05-Mar-96,Rawalpindi,Rawalpindi,South Africa,Netherlands,328 for 3,168 for 8,South Africa,160,Runs,,Sri Lanka
+1995/96,India/Pakistan/Sri Lanka,Wills World Cup,League,Day Night,21-Feb-96,Gwalior,Gwalior,West Indies,India,173,174 for 5,India,5,Wickets,With 62 balls remaining,Sri Lanka
+1995/96,India/Pakistan/Sri Lanka,Wills World Cup,League,Day,20-Feb-96,Faisalabad,Faisalabad,New Zealand,South Africa,177 for 9,178 for 5,South Africa,5,Wickets,With 75 balls remaining,Sri Lanka
+1995/96,India/Pakistan/Sri Lanka,Wills World Cup,League,Day,17-Feb-96,Vadodara,Vadodara,New Zealand,Netherlands,307 for 8,188 for 7,New Zealand,119,Runs,,Sri Lanka
+1995/96,India/Pakistan/Sri Lanka,Wills World Cup,Semi-final,Day Night,14-Mar-96,Mohali,Mohali,Australia,West Indies,207 for 8,202,Australia,5,Runs,,Sri Lanka
+1995/96,India/Pakistan/Sri Lanka,Wills World Cup,League,Day,18-Feb-96,Cuttack,Cuttack,Kenya,India,199 for 6,203 for 3,India,7,Wickets,With 49 balls remaining,Sri Lanka
+1995/96,India/Pakistan/Sri Lanka,Wills World Cup,League,Day,06-Mar-96,Kanpur,Kanpur,India,Zimbabwe,247 for 5,207,India,40,Runs,,Sri Lanka
+1995/96,India/Pakistan/Sri Lanka,Wills World Cup,League,Day,23-Feb-96,Visakhapatnam,Visakhapatnam,Australia,Kenya,304 for 7,207 for 7,Australia,97,Runs,,Sri Lanka
+1995/96,India/Pakistan/Sri Lanka,Wills World Cup,League,Day,01-Mar-96,Lahore,Lahore,Netherlands,United Arab Emirates,216 for 9,220 for 3,United Arab Emirates,7,Wickets,With 34 balls remaining,Sri Lanka
+1995/96,India/Pakistan/Sri Lanka,Wills World Cup,League,Day,14-Feb-96,Ahmedabad,Ahmedabad,New Zealand,England,239 for 6,228 for 9,New Zealand,11,Runs,,Sri Lanka
+1995/96,India/Pakistan/Sri Lanka,Wills World Cup,League,Day,21-Feb-96,Colombo (SSC),Colombo,Zimbabwe,Sri Lanka,228 for 6,229 for 4,Sri Lanka,6,Wickets,With 78 balls remaining,Sri Lanka
+1995/96,India/Pakistan/Sri Lanka,Wills World Cup,League,Day,22-Feb-96,Peshawar,Peshawar,England,Netherlands,279 for 4,230 for 6,England,49,Runs,,Sri Lanka
+1995/96,India/Pakistan/Sri Lanka,Wills World Cup,League,Day,04-Mar-96,Jaipur,Jaipur,Australia,West Indies,229 for 6,232 for 6,West Indies,4,Wickets,With 7 balls remaining,Sri Lanka
+1995/96,India/Pakistan/Sri Lanka,Wills World Cup,League,Day,06-Mar-96,Lahore,Lahore,Pakistan,New Zealand,281 for 5,235,Pakistan,46,Runs,,Sri Lanka
+1995/96,India/Pakistan/Sri Lanka,Wills World Cup,Quarter-final,Day,09-Mar-96,Faisalabad,Faisalabad,England,Sri Lanka,235 for 8,236 for 5,Sri Lanka,5,Wickets,With 56 balls remaining,Sri Lanka
+1995/96,India/Pakistan/Sri Lanka,Wills World Cup,League,Day Night,27-Feb-96,Wankhede,Mumbai,Australia,India,258,242,Australia,16,Runs,,Sri Lanka
+1995/96,India/Pakistan/Sri Lanka,Wills World Cup,League,Day,29-Feb-96,Karachi,Karachi,Pakistan,South Africa,242 for 6,243 for 5,South Africa,5,Wickets,With 34 balls remaining,Sri Lanka
+1995/96,India/Pakistan/Sri Lanka,Wills World Cup,Quarter-final,Day,11-Mar-96,Karachi,Karachi,West Indies,South Africa,264 for 8,245,West Indies,19,Runs,,Sri Lanka
+1995/96,India/Pakistan/Sri Lanka,Wills World Cup,Final,Day Night,17-Mar-96,Lahore,Lahore,Australia,Sri Lanka,241 for 7,245 for 3,Sri Lanka,7,Wickets,With 22 balls remaining,Sri Lanka
+1995/96,India/Pakistan/Sri Lanka,Wills World Cup,Quarter-final,Day Night,09-Mar-96,Bengaluru,Bengaluru,India,Pakistan,287 for 8,248 for 9,India,39,Runs,,Sri Lanka
+1995/96,India/Pakistan/Sri Lanka,Wills World Cup,League,Day,03-Mar-96,Karachi,Karachi,England,Pakistan,249 for 9,250 for 3,Pakistan,7,Wickets,With 14 balls remaining,Sri Lanka
+1995/96,India/Pakistan/Sri Lanka,Wills World Cup,League,Day,06-Mar-96,Kandy,Kandy,Sri Lanka,Kenya,398 for 5,254 for 7,Sri Lanka,144,Runs,,Sri Lanka
+1995/96,India/Pakistan/Sri Lanka,Wills World Cup,League,Day,02-Mar-96,Delhi,Delhi,India,Sri Lanka,271 for 3,272 for 4,Sri Lanka,6,Wickets,With 8 balls remaining,Sri Lanka
+1995/96,India/Pakistan/Sri Lanka,Wills World Cup,Quarter-final,Day Night,11-Mar-96,Chennai,Chennai,New Zealand,Australia,286 for 9,289 for 4,Australia,6,Wickets,With 13 balls remaining,Sri Lanka
+1995/96,India/Pakistan/Sri Lanka,Wills World Cup,League,Day,29-Feb-96,Pune,Pune,Kenya,West Indies,166,93,Kenya,73,Runs,,Sri Lanka
+1995/96,India/Pakistan/Sri Lanka,Wills World Cup,League,Day,26-Feb-96,Patna,Patna,Zimbabwe,Kenya,45 for 3,,No result,,No result,,Sri Lanka
+1995/96,India/Pakistan/Sri Lanka,Wills World Cup,League,Day,17-Feb-96,Colombo (RPS),Colombo,Sri Lanka,Australia,,,Sri Lanka,,Walkover win without a ball bowled,Walkover win Without a ball bowled,Sri Lanka
+1995/96,India/Pakistan/Sri Lanka,Wills World Cup,League,Day,25-Feb-96,Colombo (RPS),Colombo,Sri Lanka,West Indies,,,Sri Lanka,,Walkover win without a ball bowled,Walkover win Without a ball bowled,Sri Lanka

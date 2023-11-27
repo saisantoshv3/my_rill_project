@@ -1,0 +1,67 @@
+# Visit https://docs.rilldata.com/reference/project-files to learn more about Rill project files.
+
+title: nirf_dashboard
+model: nirf_model
+timeseries: ""
+measures:
+  - label: Total records
+    expression: count(*)
+    name: total_records
+    description: Total number of records present
+    format_preset: humanize
+    valid_percent_of_total: true
+  - label: Total Value
+    expression: sum(value)
+    name: value
+    description: Total number of records present
+    format_preset: humanize
+    valid_percent_of_total: true
+dimensions:
+  - name: Academic Year
+    label: Academic_year
+    column: academic_year
+    description: ""
+  - name: Ranking Year
+    label: Ranking Year
+    column: ranking_year
+    description: ""
+  - name: ranking_category
+    label: Ranking_category
+    column: ranking_category
+    description: ""
+  - name: institute_id
+    label: Institute_id
+    column: institute_id
+    description: ""
+  - name: institute_name
+    label: Institute_name
+    column: institute_name
+    description: ""
+  - name: state
+    label: State
+    column: state
+    description: ""
+  - name: type
+    label: Type
+    column: type
+    description: ""
+  - name: category
+    label: Category
+    column: category
+    description: ""
+  - name: unit
+    label: Unit
+    column: unit
+    description: ""
+available_time_zones:
+  - America/Los_Angeles
+  - America/Chicago
+  - America/New_York
+  - Europe/London
+  - Europe/Paris
+  - Asia/Jerusalem
+  - Europe/Moscow
+  - Asia/Kolkata
+  - Asia/Shanghai
+  - Asia/Tokyo
+  - Australia/Sydney

@@ -1,0 +1,61 @@
+# Visit https://docs.rilldata.com/reference/project-files to learn more about Rill project files.
+
+title: NFHS_model_dashboard
+model: NFHS_model
+timeseries: ""
+measures:
+  - label: Total records
+    expression: count(*)
+    name: total_records
+    description: Total number of records present
+    format_preset: humanize
+    valid_percent_of_total: true
+  - label: NFHS 4
+    expression: sum(nfhs_4)
+    name: sum(nfhs_4)
+    description: Sum of Nfhs_4
+    format_preset: humanize
+    valid_percent_of_total: true
+  - label: NFHS 5
+    expression: sum(nfhs_5)
+    name: sum(nfhs_5)
+    description: Sum of Nfhs_5
+    format_preset: humanize
+    valid_percent_of_total: true
+dimensions:
+  - name: state
+    label: State
+    column: state
+    description: ""
+  - name: district
+    label: District
+    column: district
+    description: ""
+  - name: category
+    label: Category
+    column: category
+    description: ""
+  - name: indicator
+    label: Indicator
+    column: indicator
+    description: ""
+  - name: unit
+    label: Unit
+    column: unit
+    description: ""
+  - name: note
+    label: Note
+    column: note
+    description: ""
+available_time_zones:
+  - America/Los_Angeles
+  - America/Chicago
+  - America/New_York
+  - Europe/London
+  - Europe/Paris
+  - Asia/Jerusalem
+  - Europe/Moscow
+  - Asia/Kolkata
+  - Asia/Shanghai
+  - Asia/Tokyo
+  - Australia/Sydney

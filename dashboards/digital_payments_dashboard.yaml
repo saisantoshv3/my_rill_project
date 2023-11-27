@@ -1,0 +1,61 @@
+# Visit https://docs.rilldata.com/reference/project-files to learn more about Rill project files.
+
+title: digital_payments_dashboard
+model: digital_payments_model
+timeseries: "date"
+measures:
+  - label: Total records
+    expression: count(*)
+    name: total_records
+    description: Total number of records present
+    format_preset: humanize
+    valid_percent_of_total: true
+  - label: Sum(volume)
+    expression: sum(volume)
+    name: sum(volume)
+    description: Sum of Volume
+    format_preset: humanize
+    valid_percent_of_total: true
+  - label: Sum(value)
+    expression: sum(value)
+    name: sum(value)
+    description: Sum of Value
+    format_preset: humanize
+    valid_percent_of_total: true
+dimensions:
+  - name: category
+    label: Category
+    column: category
+    description: ""
+  - name: operated_by
+    label: Operated_by
+    column: operated_by
+    description: ""
+  - name: payment_mode
+    label: Payment_mode
+    column: payment_mode
+    description: ""
+  - name: payment_location
+    label: Payment_location
+    column: payment_location
+    description: ""
+  - name: unit
+    label: Unit
+    column: unit
+    description: ""
+  - name: note
+    label: Note
+    column: note
+    description: ""
+available_time_zones:
+  - America/Los_Angeles
+  - America/Chicago
+  - America/New_York
+  - Europe/London
+  - Europe/Paris
+  - Asia/Jerusalem
+  - Europe/Moscow
+  - Asia/Kolkata
+  - Asia/Shanghai
+  - Asia/Tokyo
+  - Australia/Sydney

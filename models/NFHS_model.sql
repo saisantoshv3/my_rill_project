@@ -1,0 +1,1 @@
+select state, district,category,indicator,"nfhs_4_2015-16" as nfhs_4, "nfhs_5_2019-21" as nfhs_5,unit,note from NFHS
