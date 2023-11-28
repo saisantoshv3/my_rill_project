@@ -10,22 +10,22 @@ measures:
     description: Total number of records present
     format_preset: humanize
     valid_percent_of_total: true
-  - label: Sum(headcount_ratio)
+  - label: Head Count Ratio
     expression: sum(headcount_ratio)
-    name: sum(headcount_ratio)
-    description: Sum of Headcount_ratio
+    name: Head Count Ratio
+    description: Headcount_ratio
     format_preset: humanize
     valid_percent_of_total: true
-  - label: Sum(intensity)
+  - label: Intensity
     expression: sum(intensity)
-    name: sum(intensity)
-    description: Sum of Intensity
+    name: Intensity
+    description: Intensity
     format_preset: humanize
     valid_percent_of_total: true
-  - label: Sum(mpi)
+  - label: MPI
     expression: sum(mpi)
-    name: sum(mpi)
-    description: Sum of Mpi
+    name: MPI
+    description: MPI
     format_preset: humanize
     valid_percent_of_total: true
 dimensions:
